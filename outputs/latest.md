@@ -1,1244 +1,816 @@
-# Trend Scrape — 2026-05-06-001705
+# Trend Scrape — 2026-05-06-004929
 
-## Reddit
+## Reddit (top posts this week from relevant subreddits)
 
 
-1. [Question] Minox non-responders, what ancillaries (and frequency of those) actually work? + A few nerdy questions.
-   r/Minoxbeards
-   🔼 1 (100%) • 💬 8 • 2026-05-05 21:45
-   https://redd.it/1t4q85s
-
-2. Vitamin A and Thyroid Hormone Are Crucial for Good Eyesight
-   r/KeltoiWellness
-   🔼 1 (100%) • 💬 0 • 2026-05-01 21:01
-   https://redd.it/1t12lzn
-
-3. [creepypasta] Metal Gaia (Part 1)
-   r/CreepCast_Submissions
-   🔼 3 (100%) • 💬 0 • 2026-04-30 00:59
-   https://redd.it/1szej3p
-
-4. Metal Gaia (Part 1)
-   r/horrorstories
-   🔼 1 (100%) • 💬 0 • 2026-04-30 00:36
-   https://redd.it/1szdzmh
-
-5. [Discussion] Amazon Driver ran red light at pedestrian crossing, killing a man's dog today.
-   r/Edinburgh
-   🔼 541 (98%) • 💬 152 • 2026-04-30 22:06
-   https://redd.it/1t07edw
-
-6. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
+1. Whenever I leave for the bathroom, I come back to find her like this
    r/redlighttherapy
-   🔼 105 (83%) • 💬 138 • 2026-05-04 11:55
+   🔼 202 (100%) • 💬 31 • 2026-05-03 08:21
+   https://redd.it/1t2dih7
+
+2. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
+   r/redlighttherapy
+   🔼 106 (83%) • 💬 139 • 2026-05-04 11:55
    https://redd.it/1t3d4xw
 
-7. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 57 (96%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-8. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 25 (79%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-9. [ONGOING] AITAH For not wanting to help with house bills after my BF’s mother claimed ownership of my dog
-   r/BestofRedditorUpdates
-   🔼 1635 (86%) • 💬 488 • 2026-04-30 06:02
-   https://redd.it/1szl8vn
-
-10. [Question ] Best Red Light Therapy Device of 2026? Recommendations
+3. RLT is so confusing, can someone just tell me what to buy?
    r/redlighttherapy
-   🔼 40 (87%) • 💬 63 • 2026-05-02 17:36
+   🔼 96 (95%) • 💬 76 • 2026-05-04 03:42
+   https://redd.it/1t33z1n
+
+4. Using red light on my pup after surgery
+   r/redlighttherapy
+   🔼 55 (94%) • 💬 13 • 2026-05-03 06:47
+   https://redd.it/1t2bsvi
+
+5. [Question ] Best Red Light Therapy Device of 2026? Recommendations
+   r/redlighttherapy
+   🔼 42 (89%) • 💬 63 • 2026-05-02 17:36
    https://redd.it/1t1t6v8
 
-11. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 200 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
+6. RLT reversing gray hair?
+   r/redlighttherapy
+   🔼 32 (97%) • 💬 43 • 2026-04-29 13:10
+   https://redd.it/1syvo91
 
-12. Is Red Light Therapy for Skin Actually Worth It or Just Hype?
-   r/BeautyGear
-   🔼 46 (93%) • 💬 55 • 2026-05-02 16:41
-   https://redd.it/1t1rqyd
+7. Costco is the best price I’ve seen for the higherdose mask.
+   r/redlighttherapy
+   🔼 30 (89%) • 💬 11 • 2026-04-29 16:48
+   https://redd.it/1sz0zem
 
-13. Doing Red Light for dry eye syndrome
+8. [Question ] Red light cured my carpal tunnel and tennis elbow - now looking for more
+   r/redlighttherapy
+   🔼 25 (94%) • 💬 12 • 2026-04-30 04:21
+   https://redd.it/1szj4w6
+
+9. Doing Red Light for dry eye syndrome
    r/redlighttherapy
    🔼 23 (100%) • 💬 50 • 2026-04-29 15:43
    https://redd.it/1syz8ae
 
-14. Anybody score a red light therapy device before?
-   r/AmazonVine
-   🔼 0 (38%) • 💬 54 • 2026-05-03 10:31
-   https://redd.it/1t2ftat
-
-15. Red light therapy for ADHD
+10. month 4 on minoxidil and the shed still wont quit.. is adding LPT actually worth it?
    r/redlighttherapy
-   🔼 21 (89%) • 💬 43 • 2026-05-01 10:29
-   https://redd.it/1t0ngms
+   🔼 22 (90%) • 💬 34 • 2026-04-30 08:41
+   https://redd.it/1szo8pd
 
-16. [Success Stories ] Recent Update - Massive Fat Loss 💪
-   r/Mounjaro
-   🔼 86 (98%) • 💬 29 • 2026-05-01 22:49
-   https://redd.it/1t15j09
-
-17. Does anyone use both red &amp; blue light therapy?
-   r/redlighttherapy
-   🔼 15 (89%) • 💬 36 • 2026-05-03 16:13
-   https://redd.it/1t2ml20
-
-18. Bought this CECHE01 Fat PS3 for parts, it throws a yellow light extremely quickly then flashes red..
-   r/PS3
-   🔼 11 (79%) • 💬 32 • 2026-04-28 04:33
-   https://redd.it/1sxom39
-
-19. [Question ] Are there any red light therapy masks on Amazon worth buying?
-   r/redlighttherapy
-   🔼 4 (75%) • 💬 27 • 2026-04-30 02:27
-   https://redd.it/1szgl3r
-
-20. Thoughts on JOVS Red Light Therapy Bra?
-   r/redlighttherapy
-   🔼 9 (85%) • 💬 26 • 2026-04-28 07:43
-   https://redd.it/1sxshlj
-
-1. How Red Light Therapy Reduces Inflammation
-   r/redlighttherapysci
-   🔼 1 (100%) • 💬 0 • 2026-05-03 15:34
-   https://redd.it/1t2lmt3
-
-2. Dysbiosis (Dysfunction of the Gut Microbiome) is huge cause of aging. Here are the best ways to prevent and fix it with scientific evidence.
-   r/immortalists
-   🔼 282 (99%) • 💬 15 • 2026-05-02 00:10
-   https://redd.it/1t17l20
-
-3. Mitochondrial Dysfunction is a major hallmark of aging. By repairing Mitochondria we can effectively reverse aging and scientific evidence.
-   r/immortalists
-   🔼 255 (98%) • 💬 17 • 2026-05-01 01:04
-   https://redd.it/1t0bzkf
-
-4. [Discussion] What’s your favourite type of facial?
-   r/SkinbarrierLovers
-   🔼 13 (100%) • 💬 17 • 2026-04-30 21:00
-   https://redd.it/1t05kyf
-
-5. [Beauty &amp; Personal Care] 5 Best LED Face Mask Deals: 2026 Mother's Day Self-Care Gift Guide
-   r/buyingsmart
-   🔼 1 (100%) • 💬 0 • 2026-05-02 22:46
-   https://redd.it/1t21b1r
-
-6. [Science] Wavelengths Explained: What 660nm, 850nm &amp; 1064nm Actually Do to Your Body
-   r/redlighttherapysci
-   🔼 1 (100%) • 💬 0 • 2026-05-02 15:55
-   https://redd.it/1t1qlkv
-
-7. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
-   r/redlighttherapy
-   🔼 104 (83%) • 💬 138 • 2026-05-04 11:55
-   https://redd.it/1t3d4xw
-
-8. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 56 (95%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-9. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 29 (80%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-10. [Question ] Best Red Light Therapy Device of 2026? Recommendations
-   r/redlighttherapy
-   🔼 42 (89%) • 💬 63 • 2026-05-02 17:36
-   https://redd.it/1t1t6v8
-
-11. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 199 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
-
-12. Is Red Light Therapy for Skin Actually Worth It or Just Hype?
-   r/BeautyGear
-   🔼 43 (91%) • 💬 55 • 2026-05-02 16:41
-   https://redd.it/1t1rqyd
-
-13. [ONGOING] AITAH for calling my sister’s marriage result of an affair, when she accused me of being a cheater?
-   r/BestofRedditorUpdates
-   🔼 2265 (94%) • 💬 231 • 2026-05-02 06:00
-   https://redd.it/1t1f7tg
-
-14. Doing Red Light for dry eye syndrome
-   r/redlighttherapy
-   🔼 24 (100%) • 💬 50 • 2026-04-29 15:43
-   https://redd.it/1syz8ae
-
-15. Anybody score a red light therapy device before?
-   r/AmazonVine
-   🔼 0 (35%) • 💬 54 • 2026-05-03 10:31
-   https://redd.it/1t2ftat
-
-16. Red light therapy for ADHD
+11. Red light therapy for ADHD
    r/redlighttherapy
    🔼 19 (86%) • 💬 43 • 2026-05-01 10:29
    https://redd.it/1t0ngms
 
-17. Billionaire Tom Steyer wants to take on the rich in run for California governor
-   r/California
-   🔼 889 (84%) • 💬 556 • 2026-04-29 18:08
-   https://redd.it/1sz39sk
+12. [Question ] Lost in choosing red light therapy
+   r/redlighttherapy
+   🔼 18 (100%) • 💬 20 • 2026-05-05 04:04
+   https://redd.it/1t41z10
 
-18. Does anyone use both red &amp; blue light therapy?
+13. What are the logistics of using a panel on your face?
+   r/redlighttherapy
+   🔼 16 (100%) • 💬 24 • 2026-04-29 17:46
+   https://redd.it/1sz2muo
+
+14. Does anyone use both red &amp; blue light therapy?
    r/redlighttherapy
    🔼 14 (86%) • 💬 36 • 2026-05-03 16:13
    https://redd.it/1t2ml20
 
-19. [Question ] Are there any red light therapy masks on Amazon worth buying?
+15. [Question ] Uk folks, what reputable helmets are there for hair growth / thickening
    r/redlighttherapy
-   🔼 4 (75%) • 💬 27 • 2026-04-30 02:27
-   https://redd.it/1szgl3r
+   🔼 13 (100%) • 💬 7 • 2026-05-01 19:14
+   https://redd.it/1t0zm7n
 
-20. Thoughts on JOVS Red Light Therapy Bra?
-   r/redlighttherapy
-   🔼 10 (86%) • 💬 26 • 2026-04-28 07:43
-   https://redd.it/1sxshlj
-
-1. [Question] Would you travel abroad for a real recovery/reset?
-   r/Lyme
-   🔼 1 (60%) • 💬 34 • 2026-04-28 11:50
-   https://redd.it/1sxwqy2
-
-2. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
-   r/redlighttherapy
-   🔼 105 (83%) • 💬 138 • 2026-05-04 11:55
-   https://redd.it/1t3d4xw
-
-3. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 58 (96%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-4. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 28 (83%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-5. [Question ] Best Red Light Therapy Device of 2026? Recommendations
-   r/redlighttherapy
-   🔼 42 (89%) • 💬 63 • 2026-05-02 17:36
-   https://redd.it/1t1t6v8
-
-6. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 200 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
-
-7. Is Red Light Therapy for Skin Actually Worth It or Just Hype?
-   r/BeautyGear
-   🔼 43 (91%) • 💬 55 • 2026-05-02 16:41
-   https://redd.it/1t1rqyd
-
-8. Doing Red Light for dry eye syndrome
-   r/redlighttherapy
-   🔼 22 (97%) • 💬 50 • 2026-04-29 15:43
-   https://redd.it/1syz8ae
-
-9. Anybody score a red light therapy device before?
-   r/AmazonVine
-   🔼 0 (38%) • 💬 54 • 2026-05-03 10:31
-   https://redd.it/1t2ftat
-
-10. Red light therapy for ADHD
-   r/redlighttherapy
-   🔼 20 (88%) • 💬 43 • 2026-05-01 10:29
-   https://redd.it/1t0ngms
-
-11. Does anyone use both red &amp; blue light therapy?
-   r/redlighttherapy
-   🔼 14 (86%) • 💬 36 • 2026-05-03 16:13
-   https://redd.it/1t2ml20
-
-12. [Question ] Are there any red light therapy masks on Amazon worth buying?
-   r/redlighttherapy
-   🔼 3 (67%) • 💬 27 • 2026-04-30 02:27
-   https://redd.it/1szgl3r
-
-13. Thoughts on JOVS Red Light Therapy Bra?
-   r/redlighttherapy
-   🔼 8 (79%) • 💬 26 • 2026-04-28 07:43
-   https://redd.it/1sxshlj
-
-14. [Question ] Lost in choosing red light therapy
-   r/redlighttherapy
-   🔼 15 (95%) • 💬 20 • 2026-05-05 04:04
-   https://redd.it/1t41z10
-
-15. [Relationships] Fiancée (F29) insists I (M30) cut off my parents-struggling with the decison [Concluded]
-   r/BORUpdates
-   🔼 1138 (96%) • 💬 185 • 2026-05-04 11:27
-   https://redd.it/1t3cn7l
-
-16. [Support/Advice] Red Light Therapy
-   r/FemaleHairLoss
-   🔼 3 (81%) • 💬 18 • 2026-05-02 16:54
-   https://redd.it/1t1s33x
-
-17. [Treatment] Has anyone had tried red light therapy?
-   r/lichensclerosus
-   🔼 8 (90%) • 💬 16 • 2026-05-01 04:09
-   https://redd.it/1t0g4st
-
-18. (F21) Red light therapy at the gym!
-   r/selfie
-   🔼 53 (96%) • 💬 9 • 2026-05-04 19:53
-   https://redd.it/1t3p8mv
-
-19. What does the research say about Red Light Therapy for arthritis? ( Not a hype version )
-   r/rheumatoid
-   🔼 22 (96%) • 💬 13 • 2026-05-01 09:19
-   https://redd.it/1t0m8zw
-
-20. Best Red Light Therapy Beds to buy right now?
-   r/redlighttherapy
-   🔼 2 (63%) • 💬 15 • 2026-05-01 13:06
-   https://redd.it/1t0q9zu
-
-1. [Art :karma:] Stand-alone Follow-up to the lizards-within-a-coat story, titled "The Ground Floor of the Library is Burning, and I Am Unfortunately the Cause"
-   r/SchizoidAdjacent
-   🔼 1 (67%) • 💬 0 • 2026-05-05 19:27
-   https://redd.it/1t4m8a1
-
-2. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
-   r/redlighttherapy
-   🔼 106 (83%) • 💬 138 • 2026-05-04 11:55
-   https://redd.it/1t3d4xw
-
-3. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 58 (97%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-4. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 27 (80%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-5. [Question ] Best Red Light Therapy Device of 2026? Recommendations
-   r/redlighttherapy
-   🔼 42 (89%) • 💬 63 • 2026-05-02 17:36
-   https://redd.it/1t1t6v8
-
-6. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 204 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
-
-7. Is Red Light Therapy for Skin Actually Worth It or Just Hype?
-   r/BeautyGear
-   🔼 46 (93%) • 💬 55 • 2026-05-02 16:41
-   https://redd.it/1t1rqyd
-
-8. Doing Red Light for dry eye syndrome
-   r/redlighttherapy
-   🔼 22 (97%) • 💬 50 • 2026-04-29 15:43
-   https://redd.it/1syz8ae
-
-9. Anybody score a red light therapy device before?
-   r/AmazonVine
-   🔼 0 (41%) • 💬 54 • 2026-05-03 10:31
-   https://redd.it/1t2ftat
-
-10. Red light therapy for ADHD
-   r/redlighttherapy
-   🔼 19 (86%) • 💬 43 • 2026-05-01 10:29
-   https://redd.it/1t0ngms
-
-11. [Review] Review: 4 Months Using the Beauty Angel Red Light Total Body Enhancement
-   r/PlanetFitnessMembers
-   🔼 84 (94%) • 💬 28 • 2026-05-01 20:43
-   https://redd.it/1t1245b
-
-12. Does anyone use both red &amp; blue light therapy?
-   r/redlighttherapy
-   🔼 14 (89%) • 💬 36 • 2026-05-03 16:13
-   https://redd.it/1t2ml20
-
-13. [Swatches] Lisa Eldridge 9.5 and T5, Dior 1W swatches on light medium warm olive skin
-   r/OliveMUA
-   🔼 52 (95%) • 💬 24 • 2026-05-01 12:50
-   https://redd.it/1t0pyiq
-
-14. [Question ] Are there any red light therapy masks on Amazon worth buying?
-   r/redlighttherapy
-   🔼 4 (75%) • 💬 27 • 2026-04-30 02:27
-   https://redd.it/1szgl3r
-
-15. Thoughts on JOVS Red Light Therapy Bra?
-   r/redlighttherapy
-   🔼 9 (80%) • 💬 26 • 2026-04-28 07:43
-   https://redd.it/1sxshlj
-
-16. [Question ] Lost in choosing red light therapy
-   r/redlighttherapy
-   🔼 15 (95%) • 💬 20 • 2026-05-05 04:04
-   https://redd.it/1t41z10
-
-17. [Relationships] Fiancée (F29) insists I (M30) cut off my parents-struggling with the decison [Concluded]
-   r/BORUpdates
-   🔼 1128 (96%) • 💬 185 • 2026-05-04 11:27
-   https://redd.it/1t3cn7l
-
-18. How to actually become more attractive, according to science
-   r/Habits
-   🔼 1802 (96%) • 💬 111 • 2026-04-30 15:27
-   https://redd.it/1szw2zu
-
-19. [Support/Advice] Red Light Therapy
-   r/FemaleHairLoss
-   🔼 3 (81%) • 💬 18 • 2026-05-02 16:54
-   https://redd.it/1t1s33x
-
-20. [Treatment] Has anyone had tried red light therapy?
-   r/lichensclerosus
-   🔼 8 (90%) • 💬 16 • 2026-05-01 04:09
-   https://redd.it/1t0g4st
-
-1. Best Red Light Therapy Beds to buy right now?
-   r/redlighttherapy
-   🔼 4 (75%) • 💬 15 • 2026-05-01 13:06
-   https://redd.it/1t0q9zu
-
-2. Why Irradiance Is the Only Spec That Actually Matters in Red Light Therapy
+1. Why Irradiance Is the Only Spec That Actually Matters in Red Light Therapy
    r/redlighttherapysci
    🔼 2 (100%) • 💬 0 • 2026-05-02 14:56
    https://redd.it/1t1p68y
 
-3. Mitochondrial Dysfunction is a major hallmark of aging. By repairing Mitochondria we can effectively reverse aging and scientific evidence.
-   r/immortalists
-   🔼 253 (98%) • 💬 17 • 2026-05-01 01:04
-   https://redd.it/1t0bzkf
-
-4. Disc injury recovery: what actually worked for me (and how mindset kept me from surgery)
-   r/backpain
-   🔼 38 (100%) • 💬 36 • 2026-04-29 21:14
-   https://redd.it/1sz8lwz
-
-5. Why Whole Body Cryotherapy at -140°C hits different and what the science actually says
-   r/Biohacking
-   🔼 1 (100%) • 💬 1 • 2026-05-05 09:10
-   https://redd.it/1t4825q
-
-6. [Science] Wavelengths Explained: What 660nm, 850nm &amp; 1064nm Actually Do to Your Body
-   r/redlighttherapysci
-   🔼 1 (100%) • 💬 0 • 2026-05-02 15:55
-   https://redd.it/1t1qlkv
-
-7. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
-   r/redlighttherapy
-   🔼 105 (83%) • 💬 138 • 2026-05-04 11:55
-   https://redd.it/1t3d4xw
-
-8. [Advice] Cat attacked by three coyotes
-   r/cats
-   🔼 4112 (98%) • 💬 547 • 2026-05-03 02:02
-   https://redd.it/1t25x7d
-
-9. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 58 (97%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-10. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 25 (78%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-11. [Question ] Best Red Light Therapy Device of 2026? Recommendations
-   r/redlighttherapy
-   🔼 42 (88%) • 💬 63 • 2026-05-02 17:36
-   https://redd.it/1t1t6v8
-
-12. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 202 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
-
-13. Is Red Light Therapy for Skin Actually Worth It or Just Hype?
-   r/BeautyGear
-   🔼 44 (91%) • 💬 55 • 2026-05-02 16:41
-   https://redd.it/1t1rqyd
-
-14. Doing Red Light for dry eye syndrome
-   r/redlighttherapy
-   🔼 23 (100%) • 💬 50 • 2026-04-29 15:43
-   https://redd.it/1syz8ae
-
-15. Anybody score a red light therapy device before?
-   r/AmazonVine
-   🔼 0 (35%) • 💬 54 • 2026-05-03 10:31
-   https://redd.it/1t2ftat
-
-16. Red light therapy for ADHD
-   r/redlighttherapy
-   🔼 20 (88%) • 💬 43 • 2026-05-01 10:29
-   https://redd.it/1t0ngms
-
-17. Does anyone use both red &amp; blue light therapy?
-   r/redlighttherapy
-   🔼 14 (89%) • 💬 36 • 2026-05-03 16:13
-   https://redd.it/1t2ml20
-
-18. [Question ] Are there any red light therapy masks on Amazon worth buying?
-   r/redlighttherapy
-   🔼 4 (75%) • 💬 27 • 2026-04-30 02:27
-   https://redd.it/1szgl3r
-
-19. Thoughts on JOVS Red Light Therapy Bra?
-   r/redlighttherapy
-   🔼 10 (86%) • 💬 26 • 2026-04-28 07:43
-   https://redd.it/1sxshlj
-
-20. [Question ] Lost in choosing red light therapy
-   r/redlighttherapy
-   🔼 16 (95%) • 💬 20 • 2026-05-05 04:04
-   https://redd.it/1t41z10
-
-1. [Treatment] Has anyone had tried red light therapy?
-   r/lichensclerosus
-   🔼 7 (89%) • 💬 16 • 2026-05-01 04:09
-   https://redd.it/1t0g4st
-
-2. What does the research say about Red Light Therapy for arthritis? ( Not a hype version )
-   r/rheumatoid
-   🔼 23 (93%) • 💬 13 • 2026-05-01 09:19
-   https://redd.it/1t0m8zw
-
-3. Has anyone tried red light therapy for knee pain or is it just wellness hype?
-   r/KneeInjuries
-   🔼 8 (100%) • 💬 6 • 2026-04-30 14:01
-   https://redd.it/1szu2fv
-
-4. Anyone using at home red light therapy or portable sauna?  I am seriously considering both to help manage pain and the other health benefits they can offer.
-   r/over60
-   🔼 8 (100%) • 💬 4 • 2026-05-01 19:06
-   https://redd.it/1t0zdw1
-
-5. How Red Light Therapy Reduces Inflammation
+2. How Red Light Therapy Reduces Inflammation
    r/redlighttherapysci
    🔼 1 (100%) • 💬 0 • 2026-05-03 15:34
    https://redd.it/1t2lmt3
 
-6. [Science] Red Light Therapy | The Biphasic Dose Response: Why More Light Isn't Always Better
+3. [Science] Red Light Therapy | The Biphasic Dose Response: Why More Light Isn't Always Better
    r/redlighttherapysci
    🔼 1 (100%) • 💬 0 • 2026-05-03 15:32
    https://redd.it/1t2lli3
 
-7. Why Irradiance Is the Only Spec That Actually Matters in Red Light Therapy
+4. [Science] Wavelengths Explained: What 660nm, 850nm &amp; 1064nm Actually Do to Your Body
    r/redlighttherapysci
-   🔼 2 (100%) • 💬 0 • 2026-05-02 14:56
-   https://redd.it/1t1p68y
-
-8. Pelvic Pain, Menopause and Red Light Therapy
-   r/RedLightTherapy4Women
-   🔼 2 (100%) • 💬 0 • 2026-04-29 21:46
-   https://redd.it/1sz9hch
-
-9. [Merle  :Merle:] 2 y/o Frenchie with IVDD declining fast (day 5)… front legs now weak too, I’m scared
-   r/Frenchbulldogs
-   🔼 581 (99%) • 💬 105 • 2026-05-04 06:07
-   https://redd.it/1t37182
-
-10. [Original Story] Stressed? Hug a Human.
-   r/humansarespaceorcs
-   🔼 801 (99%) • 💬 31 • 2026-04-30 23:18
-   https://redd.it/1t09dcy
-
-11. [Discussion] Weekly Release Thread May 1st, 2026
-   r/Metalcore
-   🔼 89 (100%) • 💬 52 • 2026-04-30 20:20
-   https://redd.it/1t04gw0
-
-12. Disc injury recovery: what actually worked for me (and how mindset kept me from surgery)
-   r/backpain
-   🔼 36 (97%) • 💬 36 • 2026-04-29 21:14
-   https://redd.it/1sz8lwz
-
-13. [Chart] This was my April. How was yours?
-   r/lastfm
-   🔼 18 (91%) • 💬 33 • 2026-04-30 21:53
-   https://redd.it/1t071qr
-
-14. [Money Diary] I'm a 34 year old Pilates teacher in Berlin, Germany, make 233k€ (joint) and this week I went to a drag show
-   r/MoneyDiariesACTIVE
-   🔼 25 (69%) • 💬 17 • 2026-05-04 13:50
-   https://redd.it/1t3fdm4
-
-15. Something in the Woods Took My Dog. I’m Going Back for Him.
-   r/nosleep
-   🔼 105 (96%) • 💬 8 • 2026-05-01 17:23
-   https://redd.it/1t0win9
-
-16. [Before &amp; After Showcase] Full Facelift and Lower Bleph at Ipche Plastic Surgery– My First Week Recovery Review
-   r/SeoulPlasticSurgery
-   🔼 19 (100%) • 💬 17 • 2026-04-30 02:47
-   https://redd.it/1szh11u
-
-17. [Fanfiction ✍️] TWIN FLAMES (Part 12, Last one)
-   r/TUJulietJattDii
-   🔼 10 (92%) • 💬 13 • 2026-05-02 06:02
-   https://redd.it/1t1f9rq
-
-18. 2 y/o Frenchie with IVDD declining fast (day 5)… front legs now weak too, I’m scared
-   r/IVDD_SupportGroup
-   🔼 8 (99%) • 💬 12 • 2026-05-04 06:03
-   https://redd.it/1t36xyn
-
-19. [Personal Story] My Grandmother Died and All I Felt Was Relief
-   r/redditonwiki
-   🔼 32 (88%) • 💬 9 • 2026-05-02 21:18
-   https://redd.it/1t1z16y
-
-20. [Question ] Could anyone advise on the following three rlt mat options?
-   r/redlighttherapy
-   🔼 3 (100%) • 💬 10 • 2026-05-04 11:40
-   https://redd.it/1t3cvcc
-
-1. [:BHVR: Behaviour Interactive Thread] 9.6.0 | Patch Notes
-   r/deadbydaylight
-   🔼 328 (94%) • 💬 755 • 2026-04-28 16:29
-   https://redd.it/1sy32en
-
-2. Here is how to reverse grey hair. I have listed scientific proven tips.
-   r/immortalists
-   🔼 457 (94%) • 💬 84 • 2026-05-04 01:18
-   https://redd.it/1t30rek
-
-3. [:2: Official News 📰] 9.6.0 | Patch Notes
-   r/DeadByDaylightKillers
-   🔼 49 (92%) • 💬 132 • 2026-04-28 16:42
-   https://redd.it/1sy3f3d
-
-4. [LYRICS] List of Major Subliminal Shots Between Wayne/Drake/Kendrick/Eminem and Affiliates
-   r/DarkKenny
-   🔼 33 (95%) • 💬 14 • 2026-05-01 22:40
-   https://redd.it/1t15ae2
-
-5. [fanfiction] Cultivating Dao to a Magic School Part 24
-   r/JCBWritingCorner
-   🔼 18 (96%) • 💬 7 • 2026-05-05 03:52
-   https://redd.it/1t41pnr
-
-6. Is it time for me? 24M struggling with hair loss
-   r/bald
-   🔼 2649 (99%) • 💬 582 • 2026-05-02 21:53
-   https://redd.it/1t1zyhg
-
-7. [Question] Minox non-responders, what ancillaries (and frequency of those) actually work? + A few nerdy questions.
-   r/Minoxbeards
-   🔼 1 (100%) • 💬 8 • 2026-05-05 21:45
-   https://redd.it/1t4q85s
-
-8. Hemangiosarcoma took my perfect golden girl
-   r/Petloss
-   🔼 5 (100%) • 💬 5 • 2026-05-05 21:20
-   https://redd.it/1t4pj5c
-
-9. The Adam and Eve project.
-   r/u_Trash_Tia
-   🔼 39 (100%) • 💬 2 • 2026-04-29 17:46
-   https://redd.it/1sz2mos
-
-10. [creepypasta] Metal Gaia (Part 1)
-   r/CreepCast_Submissions
-   🔼 3 (100%) • 💬 0 • 2026-04-30 00:59
-   https://redd.it/1szej3p
-
-11. Metal Gaia (Part 1)
-   r/horrorstories
-   🔼 1 (100%) • 💬 0 • 2026-04-30 00:36
-   https://redd.it/1szdzmh
-
-12. Thicker Hair in Months! Ultimate Laser Hair Regrowth Hat 🧢🧔
-   r/60SecondDeals
-   🔼 1 (100%) • 💬 0 • 2026-04-29 06:04
-   https://redd.it/1synws9
-
-13. [Discussion] Amazon Driver ran red light at pedestrian crossing, killing a man's dog today.
-   r/Edinburgh
-   🔼 545 (98%) • 💬 152 • 2026-04-30 22:06
-   https://redd.it/1t07edw
-
-14. 40M awarded to patient for NP's lamotrigine dosing error (supervised by MD) leading to permanent loss of fingernails/toenails, scarred hair loss, and vision loss
-   r/Psychiatry
-   🔼 308 (94%) • 💬 85 • 2026-05-04 22:38
-   https://redd.it/1t3ty34
-
-15. [Question ] Does red light therapy actually work or is it just expensive placebo? I need honest answers, not marketing
-   r/redlighttherapy
-   🔼 105 (83%) • 💬 138 • 2026-05-04 11:55
-   https://redd.it/1t3d4xw
-
-16. [Jeremy, Audrey, Pine, Ember, Bode, Radley, and Aspen] Red light therapy to fix a fracture. Oh, and btw, it’s on sale!
-   r/LittlePeopleBigWorld
-   🔼 58 (96%) • 💬 73 • 2026-05-02 16:41
-   https://redd.it/1t1rr89
-
-17. [Question] Is it okay to go into the red light therapy without clothing?
-   r/PlanetFitnessMembers
-   🔼 26 (79%) • 💬 82 • 2026-04-28 12:23
-   https://redd.it/1sxxcxg
-
-18. [ONGOING] AITAH For not wanting to help with house bills after my BF’s mother claimed ownership of my dog
-   r/BestofRedditorUpdates
-   🔼 1632 (86%) • 💬 488 • 2026-04-30 06:02
-   https://redd.it/1szl8vn
-
-19. [Question ] Best Red Light Therapy Device of 2026? Recommendations
-   r/redlighttherapy
-   🔼 42 (89%) • 💬 63 • 2026-05-02 17:36
-   https://redd.it/1t1t6v8
-
-20. [Beauty ? ] 6 weeks with the light therapy mask at 43 honest update for anyone who's been on the fence
-   r/TheGirlSurvivalGuide
-   🔼 201 (91%) • 💬 31 • 2026-04-28 16:49
-   https://redd.it/1sy3lb1
-
-## TikTok
-
-📹 We block natural light… but sit under artificial light all day unprotected. Make it make sense.  #circadianrhythm #bluelight #sunlight #Healthyhabits #biohacking 
-   👤 @androstownsend | 👁️ 130,200 | ❤️ 3,244 | 💬 141
-   🗓️ 2026-05-05T13:46:36.000Z
-   🔗 https://www.tiktok.com/@androstownsend/video/7636403694120013078
-
-📹 A lot of you aren’t feeling the effects of NAD+ and M0TSc.  In this video, ill explain what could be the main reason !   This is not medical advice. Please consult our health profe
-   👤 @elitehealthau | 👁️ 10,800 | ❤️ 128 | 💬 11
-   🗓️ 2026-05-04T22:27:52.000Z
-   🔗 https://www.tiktok.com/@elitehealthau/video/7636166952737623314
-
-📹 GHKCU PROTOCOL  I hope this helps 🫶🏻#antiaging #skincare #ghkcu #biohacking #peptide  @Alpha Research Australia  SALLY10 to save xo 
-   👤 @sally.swalling | 👁️ 4,544 | ❤️ 119 | 💬 10
-   🗓️ 2026-05-05T01:06:00.000Z
-   🔗 https://www.tiktok.com/@sally.swalling/video/7636207568280505620
-
-📹 Love my peppers 🌶️   #peppers #biohacking 
-   👤 @ashleynicoleboss | 👁️ 297 | ❤️ 11 | 💬 3
-   🗓️ 2026-05-05T02:08:35.000Z
-   🔗 https://www.tiktok.com/@ashleynicoleboss/video/7636223746331725069
-
-📹 morning skincare 🫧 #skincareroutine #fyp 
-   👤 @snopfywurld | 👁️ 895 | ❤️ 86 | 💬 1
-   🗓️ 2026-05-05T21:00:05.000Z
-   🔗 https://www.tiktok.com/@snopfywurld/video/7636515351643163934
-
-No usable results found.
-📹 Heal your pain with the power of sound Shockwave Therapy is a modern, non-invasive treatment that uses focused sound waves to stimulate your body's natural healing process. improve
-   👤 @med3d16 | 👁️ 150,800 | ❤️ 894 | 💬 19
-   🗓️ 2026-05-05T09:17:58.000Z
-   🔗 https://www.tiktok.com/@med3d16/video/7636333898825272589
-
-📹 Quick Recovery Rodrygo ❤️‍🩹🥺 #realmadrid #halamadrid #foryoupage #valvarde_8 
-   👤 @user1206eve | 👁️ 512,100 | ❤️ 85,500 | 💬 1,196
-   🗓️ 2026-05-05T15:24:47.000Z
-   🔗 https://www.tiktok.com/@user1206eve/video/7636428898795818271
-
-📹 focus on our own plates please x #recoveryispossible #recovery #girlssupportgirls 
-   👤 @healinghattie | 👁️ 37,900 | ❤️ 7,539 | 💬 23
-   🗓️ 2026-05-05T19:21:54.000Z
-   🔗 https://www.tiktok.com/@healinghattie/video/7636490118173314326
-
-📹 #teens #parenting #recovery 
-   👤 @bipolar.parents | 👁️ 11,200 | ❤️ 539 | 💬 39
-   🗓️ 2026-05-05T16:21:06.000Z
-   🔗 https://www.tiktok.com/@bipolar.parents/video/7636443395086503198
-
-📹 “a man just sat on my chest” is actually an accurate way to describe recovery 🤣 thankful that everything went perfectly! 🤍  #postop #surgery #recovery #vlog #family 
-   👤 @antxana | 👁️ 3,732 | ❤️ 421 | 💬 9
-   🗓️ 2026-05-05T21:51:08.000Z
-   🔗 https://www.tiktok.com/@antxana/video/7636528521036221726
-
-📹 Top 10 wellness things 🧺🤍
-   👤 @bella.dane | 👁️ 16,100 | ❤️ 2,450 | 💬 12
-   🗓️ 2026-05-05T20:26:23.000Z
-   🔗 https://www.tiktok.com/@bella.dane/video/7636506632809205023
-
-📹 let’s do my airport routine as a girl who prioritizes her health✈️#wellness #travel #healthy #travelroutine #wellnesstips 
-   👤 @valerieribon | 👁️ 2,444 | ❤️ 240 | 💬 1
-   🗓️ 2026-05-05T18:43:32.000Z
-   🔗 https://www.tiktok.com/@valerieribon/video/7636480078834093326
-
-📹 Nobody told you that the best things for your health are completely free.  Before the supplements, the gym memberships, the fancy gadgets there is so much you can do right now that
-   👤 @shaynateresetaylor | 👁️ 1,784 | ❤️ 122 | 💬 18
-   🗓️ 2026-05-05T16:06:33.000Z
-   🔗 https://www.tiktok.com/@shaynateresetaylor/video/7636439675506396447
-
-📹 Wellness Morning Routine ☀️🍌☕️   #coffee #morningroutine #lifestyle #motivation 
-   👤 @itzeltamezz | 👁️ 629 | ❤️ 71 | 💬 0
-   🗓️ 2026-05-05T18:46:57.000Z
-   🔗 https://www.tiktok.com/@itzeltamezz/video/7636481018966412575
-
-📹 Drop usa 🇺🇸 in comments  #usa #health #wellness 
-   👤 @purehealth.biohacking | 👁️ 652 | ❤️ 9 | 💬 0
-   🗓️ 2026-05-05T17:00:00.000Z
-   🔗 https://www.tiktok.com/@purehealth.biohacking/video/7636394463316757791
-
-📹 This is how i decompress… @bonnaroo @The Festival Babes #edm #rave #musicfestival #bonnaroo #thefestivalbabes 
-   👤 @ravenminxxx | 👁️ 87 | ❤️ 11 | 💬 0
-   🗓️ 2026-05-05T16:46:58.000Z
-   🔗 https://www.tiktok.com/@ravenminxxx/video/7636450062502989070
-
-📹 The Best Vitamin For Arthritis #health #healthtips #healthy #healthtip 
-   👤 @wellbite88 | 👁️ 6,237 | ❤️ 135 | 💬 13
-   🗓️ 2026-05-05T14:12:18.000Z
-   🔗 https://www.tiktok.com/@wellbite88/video/7636410180833447181
-
-
-## YouTube
-
-▶️ Do GLP-1s Cause Muscle Loss? What to Know About Muscle, Skin, and Red Light Therapy
-   📺 To Your Health and Wellness LLC | 👁️ 24 | 💬 0
-   🗓️ 2026-05-02T14:00:19.000Z
-   🔗 https://www.youtube.com/watch?v=Boj-NkiqQj0
-
-▶️ Losing Body Fat & Red Light Therapy
-   📺 Ej Donahue | 👁️ 11 | 💬 0
-   🗓️ 2026-05-05T21:00:10.000Z
-   🔗 https://www.youtube.com/watch?v=AywU9s8t8yk
-
-▶️ Combining Red Light and PEMF Reduces Pain Faster Than Either Alone
-   📺  Entrepreneur Channel | 👁️ 21 | 💬 0
-   🗓️ 2026-05-02T03:04:04.000Z
-   🔗 https://www.youtube.com/watch?v=JnrXN4hkOgc
-
-▶️ CosmoLight Photobiomodulation: Red & Near-Infrared Light Therapy on the Go!
-   📺 Cosmo Care Health & Wellbeing | 👁️ 13 | 💬 0
-   🗓️ 2026-04-30T11:36:43.000Z
-   🔗 https://www.youtube.com/watch?v=WyEUMP5II4U
-
-▶️ Post-inflammatory hyperpigmentation – blue + red light erased my dark spots
-   📺 小熊陆比 | 👁️ 0 | 💬 0
-   🗓️ 2026-04-29T01:06:32.000Z
-   🔗 https://www.youtube.com/watch?v=SvquFN3-DV8
-
-▶️ Lifepro Allevared Red Light Therapy Belt Review: Real Person, Real Review, No BS
-   📺 Disabled Adventures | 👁️ 30 | 💬 0
-   🗓️ 2026-04-28T19:00:00.000Z
-   🔗 https://www.youtube.com/watch?v=tL1xH67pzbA
-
-▶️ Episode 58- Recovery Has a Sequence: Inside Cryotech Nordic’s R&R Concept
-   📺 We Are The Collective_world | 👁️ 17 | 💬 0
-   🗓️ 2026-04-29T06:21:40.000Z
-   🔗 https://www.youtube.com/watch?v=TWkMsA6idko&t=1470s
-
-▶️ Muscle Recovery Hacks for Seniors to Stay Strong and Active Over 60 | Dr. William Li
-   📺 Longevity Muscle Lab | 👁️ 40 | 💬 0
-   🗓️ 2026-04-28T10:52:07.000Z
-   🔗 https://www.youtube.com/watch?v=RyZW63-S_eo
-
-▶️ Lifepro Allevared Red Light Therapy Belt Review: Real Person, Real Review, No BS
-   📺 Disabled Adventures | 👁️ 30 | 💬 0
-   🗓️ 2026-04-28T19:00:00.000Z
-   🔗 https://www.youtube.com/watch?v=tL1xH67pzbA
-
-▶️ KOANNA: Warum Rotlichttherapie gegen Schmerzen und Aging wirkt – Dr. Claudia Bignion erklärt
-   📺 Dr. Claudia Bignion | 👁️ 55 | 💬 0
-   🗓️ 2026-04-29T14:30:37.000Z
-   🔗 https://www.youtube.com/watch?v=g3Vq3aXU58o
-
-▶️ Transform Your Back Pain with RENPHO Red Light Therapy Belt
-   📺 Alder & Jade Reviews | 👁️ 26 | 💬 1
-   🗓️ 2026-04-28T15:21:57.000Z
-   🔗 https://www.youtube.com/watch?v=lccxp-oHBKM
-
-▶️ Thinning Hair in Menopause – Why It Happens and What To Do About It
-   📺 The Doctor Youn Show | 👁️ 899 | 💬 5
-   🗓️ 2026-05-05T13:00:56.000Z
-   🔗 https://www.youtube.com/watch?v=W1nYh9GtCsE
-
-▶️ Nutrafol: Hair Growth Breakthrough. . . or Expensive Hype?
-   📺 Best Derm Care with Beth | 👁️ 37 | 💬 0
-   🗓️ 2026-05-03T23:15:00.000Z
-   🔗 https://www.youtube.com/watch?v=8cPsAQ09Fbg
-
-▶️ Red Light Therapy for Hair Regrowth: Does It Actually Work?
-   📺 Red Light Therapy Podcast | 👁️ 9 | 💬 0
-   🗓️ 2026-05-04T11:00:31.000Z
-   🔗 https://www.youtube.com/watch?v=BlBmDVMy8xQ
-
-▶️ Biohacker Bryan Johnson trusts AI will solve human aging
-   📺 CNN | 👁️ 41,704 | 💬 660
-   🗓️ 2026-05-02T22:00:28.000Z
-   🔗 https://www.youtube.com/watch?v=_QIEscvBI6M
-
-▶️ AGEING IS A DISEASE! 100 വയസ്സിനപ്പുറം എങ്ങനെ ജീവിക്കാം? DR SAJEEV NAIR | DHANYA VARMA #biohacking
-   📺 I AM with Dhanya Varma | 👁️ 42,080 | 💬 165
-   🗓️ 2026-04-28T12:45:08.000Z
-   🔗 https://www.youtube.com/watch?v=UHEzBsxtDzg
-
-▶️ Coach Stef: Anti-Influencer aber More Code!? Stoff, Peptide, Social uvm. | KLARTEXT #46
-   📺 Iron Mike Biohacking | 👁️ 16,911 | 💬 45
-   🗓️ 2026-05-03T16:00:59.000Z
-   🔗 https://www.youtube.com/watch?v=hJ2sXGLTOiE
-
-▶️ De ce pierdem energie inainte sa imbatranim? Gabriel Pesa despre biohacking, peptide si longevitate.
-   📺 Raspunsuri in Perimenopauza! | 👁️ 6,324 | 💬 38
-   🗓️ 2026-04-28T17:24:51.000Z
-   🔗 https://www.youtube.com/watch?v=i3hlBMOiJxo
-
-▶️ Biohacking della Longevità I 4 Pilastri per non invecchiare
-   📺 Smettere di lavorare | 👁️ 5,038 | 💬 42
-   🗓️ 2026-05-01T04:00:25.000Z
-   🔗 https://www.youtube.com/watch?v=NsCmF-0k05c
-
-▶️ Longevity Doctor: Truth About Hormones, Mast Cell & “Personalized Aging” l Sandra Kaufmann l Ep #434
-   📺 Nathalie Niddam | 👁️ 922 | 💬 11
-   🗓️ 2026-05-01T09:00:47.000Z
-   🔗 https://www.youtube.com/watch?v=XQPXYUuK9oE
-
-▶️ I Spent Months Researching LED Masks — Here's What I Know
-   📺 Chris Gibson | 👁️ 5,983 | 💬 33
-   🗓️ 2026-05-03T23:38:22.000Z
-   🔗 https://www.youtube.com/watch?v=b8yGOlsctHQ&t=43s
-
-▶️ Red Light Therapy Masks: Works or Rip Off?
-   📺 FiftyPlusBeauty | 👁️ 1,979 | 💬 50
-   🗓️ 2026-05-02T14:00:00.000Z
-   🔗 https://www.youtube.com/watch?v=l-DaPmDFblc
-
-▶️ Mia MAMMA HA MENO RUGHE dopo 30 GIORNI DI LED MASK Current Body | Risultati Veri e Recensione ONESTA
-   📺 Senza Trucco | 👁️ 1,502 | 💬 29
-   🗓️ 2026-05-03T10:14:38.000Z
-   🔗 https://www.youtube.com/watch?v=trW3Wu78POE
-
-▶️ Everyone’s talking about Ozempic, peptides, red light, cold plunges, and “biohacks.”
-   📺 Blaise Curtis | 👁️ 134 | 💬 0
-   🗓️ 2026-05-05T10:45:01.000Z
-   🔗 https://www.youtube.com/watch?v=7A0j4EclQaQ
-
-▶️ The Biohacking Recovery Hack Billionaires Swear By
-   📺 Longevity Wealth Lab | 👁️ 7 | 💬 3
-   🗓️ 2026-05-05T18:00:18.000Z
-   🔗 https://www.youtube.com/watch?v=BPfaHO_vZUg
-
-▶️ Doctors Said She'd Never Walk Again #health #shorts
-   📺 Heali | 👁️ 5 | 💬 0
-   🗓️ 2026-05-04T23:30:00.000Z
-   🔗 https://www.youtube.com/watch?v=SFchLeRhueM
-
-▶️ जानिए-अदरक चाय के जबरदस्त फायदे#ginger #digestion #immunity #cough #homeremedies #wellness #shorts
-   📺 DD HEALTH CARE | 👁️ 1,632 | 💬 0
-   🗓️ 2026-05-04T03:00:40.000Z
-   🔗 https://www.youtube.com/watch?v=_6gB-CjH3gg
-
-▶️ Organic Anti-Inflammatory Tea | Tea of the Week
-   📺 Full Leaf Tea Company | 👁️ 137 | 💬 1
-   🗓️ 2026-04-30T19:06:48.000Z
-   🔗 https://www.youtube.com/watch?v=AsfhgdLrjsI
-
-▶️ The Powder That's Stopping Inflammation in Its Tracks | Dr. William Li
-   📺 Dr. Li Wellness | 👁️ 97 | 💬 0
-   🗓️ 2026-05-05T01:15:00.000Z
-   🔗 https://www.youtube.com/watch?v=EczDJ4eHxOE
-
-
-## Instagram
-
-📸 Not all red light devices are created equal. ♥️🚨  As someone who’s spent years in skincare and uses a red light mask regularly, I’m breaking down exactly what I’d buy and why.  Whe
-   👤 @iamcynthiagarcia | ❤️ 46 | 💬 34
-   🗓️ 2026-05-05T19:44:06+00:00
-   🔗 https://www.instagram.com/p/DX-BprqAZyB/
-
-📸 The claim that 12 minutes of red light therapy twice a week “reversed all signs” of skin aging is overstated. While 630 nm red light is studied for boosting collagen and reducing i
-   👤 @elevatemindhq | ❤️ 109 | 💬 7
-   🗓️ 2026-05-05T20:22:19+00:00
-   🔗 https://www.instagram.com/p/DX-GAWYkTUA/
-
-📸 The professional's choice for body recovery.   There's a reason the Lumara Pad has quietly become standard equipment in clinics, recovery studios, and high-performance facilities w
-   👤 @lumarasystems | ❤️ 122 | 💬 0
-   🗓️ 2026-05-05T19:36:09+00:00
-   🔗 https://www.instagram.com/p/DX-AvYrlADZ/
-
-📸 Swipe left to see the latest design trend in bathroom lighting shot last week. Red-Light therapy is becoming popular so many people are having them designed into bathrooms like the
-   👤 @nathancool | ❤️ 19 | 💬 1
-   🗓️ 2026-05-05T21:08:33+00:00
-   🔗 https://www.instagram.com/p/DX-LUMhEprY/
-
-📸 May is the perfect time to give Mom a little more room to rest. 💜  All month long, Total Zen & Wellness is offering our Mother’s Day Special:  ✨ Half-price HaloSauna sessions ✨ Hal
-   👤 @tzwellness_jc | ❤️ 1 | 💬 2
-   🗓️ 2026-05-05T21:47:01+00:00
-   🔗 https://www.instagram.com/p/DX-PsEwk0cF/
-
-📸 🌿✨ Spring Into Wellness: Better Gut Health Starts Here! ✨🌿  Did you know your gut microbiome plays a critical role in your overall health, metabolism, mental wellness, and even fat
-   👤 @austinbodycontouring | ❤️ 1 | 💬 2
-   🗓️ 2026-05-05T20:24:23+00:00
-   🔗 https://www.instagram.com/p/DX-FksziQT8/
-
-📸 Elevate your wellness journey with a touch of luxury! ✨   Introducing the RedStem Focal, a groundbreaking device designed to harness the power of medical-grade LED red light therap
-   👤 @redstem417 | ❤️ 0 | 💬 2
-   🗓️ 2026-05-05T20:31:49+00:00
-   🔗 https://www.instagram.com/p/DX-HGjgkkiG/
-
-📸 when Cinco de Mayo and Tanline Tuesday falls on the same day, you know we’re trained up and ready 🌮✨ all our faves in one day - tacos, tequila and tanlines - let’s gooo 👯‍♀️ enjoy 
-   👤 @tanlinesoptionalusa | ❤️ 7 | 💬 1
-   🗓️ 2026-05-05T19:12:22+00:00
-   🔗 https://www.instagram.com/p/DX95PsIRQjV/
-
-📸 Her tan isn’t from me (keeping it honest always 💁🏼‍♀️), but she came to me for red light therapy treatments — and the improvement in her skin speaks for itself ✨ Consistency + the 
-   👤 @glamandgo_byerin | ❤️ 1 | 💬 1
-   🗓️ 2026-05-05T21:30:47+00:00
-   🔗 https://www.instagram.com/p/DX-NyUfiXH6/
-
-📸 My health numbers for April 2026  Grounding- 87:26 152 sessions (April '26: 73:34 185 sessions)  Cold Thermogenesis Plunge: 15 sessions for 1:51 ( '26 was 16 sessions x 1:31)  Cold
-   👤 @sun.yun.jason | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T22:27:30+00:00
-   🔗 https://www.instagram.com/p/DX-UWPeETrv/
-
-📸 50% OFF your first session 🔥✨  If you’ve been waiting for a sign… this is it.  Step in, reset, and feel the difference — for half the price. 💭
-   👤 @beem.thewoodlands.tx | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T22:24:18+00:00
-   🔗 https://www.instagram.com/p/DX-T8wUk2Nf/
-
-📸 Looking for something meaningful for Mom?  Float therapy offers a gentle, weightless environment that supports postpartum recovery by easing muscle tension, reducing stress, and pr
-   👤 @enlighten_well | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T19:04:08+00:00
-   🔗 https://www.instagram.com/p/DX99A6fFlSx/
-
-📸 🌟 Mother’s Day Glow-Up Alert! 🌟 Treat Mom (or yourself!) to the ultimate self-care gift this year 💆‍♀️✨ Red Light Therapy is now available at The Racquet Club! This powerful, non-i
-   👤 @ykracquetclub | ❤️ 7 | 💬 0
-   🗓️ 2026-05-05T20:26:40+00:00
-   🔗 https://www.instagram.com/p/DX-GhaIgYNr/
-
-📸 Every animal tells a story—you just have to know how to read it.  During a session, I’m not just placing coils… I’m watching for the little things: • Softer eyes and a more relaxed
-   👤 @ohsogoodequineandlivestock | ❤️ 7 | 💬 0
-   🗓️ 2026-05-05T19:19:10+00:00
-   🔗 https://www.instagram.com/p/DX9-zCQAXvi/
-
-📸 Mother’s Day gifting… but make it something she’ll actually USE 🤍  This year, skip the random flowers + last-minute gifts and give her something that supports how she feels.  Wheth
-   👤 @fitnessbarbie419 | ❤️ 6 | 💬 0
-   🗓️ 2026-05-05T19:55:29+00:00
-   🔗 https://www.instagram.com/p/DX-C9FdHdfa/
-
-📸 ✨ MOTHER’S DAY GLOW EVENT ✨ Give her the glow she wants….  This Mother’s Day, treat the moms, daughters, besties (or yourself😉) to the ultimate self-care glow 🫶  Our limited Mother
-   👤 @caribbeantanne | ❤️ 5 | 💬 0
-   🗓️ 2026-05-05T21:23:23+00:00
-   🔗 https://www.instagram.com/p/DX-MtoDEWPA/
-
-📸 Your hair isn't thinning because of genetics. 🧬  It's thinning because your scalp isn't getting enough blood flow.  Scalp Pro 360 fixes that in 5 minutes a day:  🔴 Red Light Therap
-   👤 @supwell_uk | ❤️ 4 | 💬 0
-   🗓️ 2026-05-05T22:04:49+00:00
-   🔗 https://www.instagram.com/p/DX-Rv2hiu_C/
-
-📸 See you at @chandlerwellness this week! #cryo #redlighttherapy #happy
-   👤 @schlindalindah | ❤️ 4 | 💬 0
-   🗓️ 2026-05-05T20:37:05+00:00
-   🔗 https://www.instagram.com/p/DX-HnWWkgic/
-
-📸 Happy International Day of the Midwife ✨  Today we’re celebrating the incredible midwives who support, guide, educate, and care for families through one of the most powerful season
-   👤 @allure.ak | ❤️ 3 | 💬 0
-   🗓️ 2026-05-05T19:14:28+00:00
-   🔗 https://www.instagram.com/p/DX9-QkAgTzH/
-
-📸 Put me in my red box of happy lights and sea salt 🥰♥️ #redlighttherapy #salttherapy #thedripbarllargo #redboxofhappiness #breathing
-   👤 @you._can._call._me._al | ❤️ 2 | 💬 0
-   🗓️ 2026-05-05T22:02:49+00:00
-   🔗 https://www.instagram.com/p/DX-RPc0EYr3/
-
-📸 Stop guessing. Start optimizing. Berberine + Chromium = better blood sugar, more energy, leaner physique.  Train hard. Fuel smarter.  For online coaching send ”coach”  #FatLoss #Mu
-   👤 @fitness_faik | ❤️ -1 | 💬 9
-   🗓️ 2026-05-05T19:58:18+00:00
-   🔗 https://www.instagram.com/p/DX-DE3SjY4y/
-
-📸 O check-up básico está feito.  Está "tudo bem".  Mas sente-se cansado. Não dorme como antes.  O peso não responde como deveria.  É que "tudo bem" no check-up básico não significa "
-   👤 @clinica.joana.menezes | ❤️ 52 | 💬 0
-   🗓️ 2026-05-05T19:59:16+00:00
-   🔗 https://www.instagram.com/p/DX-DYsultaQ/
-
-📸 Fatty liver disease has historically had no real pharmacological solution. That may be changing. 🧬  A Phase 2 clinical trial published in The Lancet tracked patients with fatty liv
-   👤 @biohacker.network | ❤️ 25 | 💬 1
-   🗓️ 2026-05-05T19:36:34+00:00
-   🔗 https://www.instagram.com/p/DX-AygOjfDq/
-
-📸 Reprograma tu metabolismo desde adentro ⚡  Retatrutide está llamando la atención por su enfoque innovador, actuando sobre múltiples vías relacionadas con el metabolismo y la regula
-   👤 @biopepmiami | ❤️ 4 | 💬 2
-   🗓️ 2026-05-05T20:38:55+00:00
-   🔗 https://www.instagram.com/p/DX-HzkKkhy4/
-
-📸 4 layers of cellular health every biohacking woman should understand 👇  Most women are told to try harder. Work out harder.  Eat less.  Drink more coffee.  Push through the fatigue
-   👤 @biohackingwithmindy | ❤️ 1 | 💬 2
-   🗓️ 2026-05-05T19:51:38+00:00
-   🔗 https://www.instagram.com/p/DX-Cg5TkSnH/
-
-📸 The perfect Cinco De Mayo snack 🎉. Say Hello to the Jerky with a 'Heck of a Kick' that Literally Melts in Your Mouth!🥩
-   👤 @lovesjerkyco | ❤️ 0 | 💬 2
-   🗓️ 2026-05-05T21:00:13+00:00
-   🔗 https://www.instagram.com/p/DX-KWGGk7dr/
-
-📸 Glow from within, bloom like a flower 🌸✨  NMN Prime 500mg supports your daily wellness routine, helping you feel energized, radiant, and ready to flourish.  You don’t just grow. Yo
-   👤 @zeroohealth | ❤️ -1 | 💬 2
-   🗓️ 2026-05-05T19:48:37+00:00
-   🔗 https://www.instagram.com/p/DX-CKfwEjXG/
-
-📸 Action anti-inflammatoire. Moins de fatigue. Une récupération accélérée. Un système nerveux qui redescend. Une peau qui se régénère. Tout ça, avec la lumière.   Notre centre ouvre 
-   👤 @ipsera.metz | ❤️ 8 | 💬 1
-   🗓️ 2026-05-05T20:09:56+00:00
-   🔗 https://www.instagram.com/p/DX-Em3QjFg1/
-
-📸 4 layers of cellular health every biohacking woman should understand 👇  Most women are told to try harder. Work out harder.  Eat less.  Drink more coffee.  Push through the fatigue
-   👤 @mindywender | ❤️ 6 | 💬 1
-   🗓️ 2026-05-05T19:59:49+00:00
-   🔗 https://www.instagram.com/p/DX-Dcxpm3Q9/
-
-📸 A maioria das pessoas ainda mede sono em horas.  Mas o metabolismo não funciona assim.  Se você quer aplicar biohacking de verdade, precisa entender uma coisa:  O que regula seu me
-   👤 @carolcamargo.metabolicreset | ❤️ 4 | 💬 1
-   🗓️ 2026-05-05T20:29:44+00:00
-   🔗 https://www.instagram.com/p/DX-G34WnB_G/
-
-📸 The science of the slap. 🧠🥁 Group drumming has been scientifically proven to lower cortisol (the stress hormone) and boost natural “feel-good” chemicals.  It’s not just making musi
-   👤 @drumdrumdrumspace | ❤️ 4 | 💬 1
-   🗓️ 2026-05-05T19:43:51+00:00
-   🔗 https://www.instagram.com/p/DX-Bn40mYHN/
-
-📸 Reprograma tu metabolismo desde adentro ⚡  Retatrutide está llamando la atención por su enfoque innovador, actuando sobre múltiples vías relacionadas con el metabolismo y la regula
-   👤 @peptiq.ec | ❤️ 3 | 💬 1
-   🗓️ 2026-05-05T20:46:11+00:00
-   🔗 https://www.instagram.com/p/DX-Isq2kvi9/
-
-📸 Most people are learning about peptides from random clips, fake gurus, and dangerous misinformation.  That ends here. The Peptide King was created to bring:  ✔ Real education  ✔ Be
-   👤 @the_peptide_king | ❤️ 3 | 💬 1
-   🗓️ 2026-05-05T20:25:07+00:00
-   🔗 https://www.instagram.com/p/DX-GWCJFjPu/
-
-📸 💡 Ce que personne ne t’explique : Ton corps contrôle ton mental 👉 pas l’inverse ❌ fatigue constante ❌ stress élevé ❌ sommeil mauvais 👉 = zéro motivation ⚡ La vraie solution : ✔ rég
-   👤 @astucesutile | ❤️ 2 | 💬 1
-   🗓️ 2026-05-05T19:05:58+00:00
-   🔗 https://www.instagram.com/p/DX99SZ4kXZg/
-
-📸 💉✨ Starting Peptides: A Smarter, Safer Approach  Peptides can be an incredible tool for recovery, body composition, performance, gut health, sleep, skin quality, and longevity… but
-   👤 @peptides_girl | ❤️ 1 | 💬 1
-   🗓️ 2026-05-05T19:54:43+00:00
-   🔗 https://www.instagram.com/p/DX-C3dNiuQt/
-
-📸 Natural energy is hard to get, this is why we need to unlock it first! 🇨🇭❤️🪴  #swiss #swisslifestyle #lifestyle #biohacking #switzerland
-   👤 @swissrooted | ❤️ 1 | 💬 1
-   🗓️ 2026-05-05T19:01:59+00:00
-   🔗 https://www.instagram.com/p/DX981JUCHAQ/
-
-📸 5 things your body is telling you right now — that you're probably ignoring. Most people wait until something feels wrong. By then, the signals have been there for months. Swipe th
-   👤 @aevisalabs | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T20:48:57+00:00
-   🔗 https://www.instagram.com/p/DX-JEr-DpkC/
-
-📸 “This ‘Brain Reset Formula’ Is Helping People Think Faster in Days” Ever walk into a room and forget WHY you went there? 👉 Click now to see what’s really going on -  https://us-new
-   👤 @newroserge | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T19:41:18+00:00
-   🔗 https://www.instagram.com/p/DX-BVDAILnU/
-
-📸 Everyone’s talking about biohacking these days… but pause for a moment—. what are we really “hacking”?  Is it something new? Or are we rediscovering something ancient, repackaging 
-   👤 @gayatrirainapatel | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T19:18:22+00:00
-   🔗 https://www.instagram.com/p/DX9-U3TR7xq/
-
-📸 Si tomás hongos y no sentís nada, es hora de hablar de lo que nadie te cuenta: la extracción 🧪 No todos los productos que ves en el mercado tienen el “poder” que prometen. 🥹 La may
-   👤 @fungibalanceok | ❤️ 7 | 💬 0
-   🗓️ 2026-05-05T20:24:16+00:00
-   🔗 https://www.instagram.com/p/DX-GP3BGJ6y/
-
-📸 منتجات أثبتت نفسها وياي ✔️ متوفرات بتطبيق وندر كود الخصم sher   .  . #منتجات #عناية #العناية_بالبشرة #عنايةبالبشرة #سكن_كير
-   👤 @shermeenbeauty | ❤️ 3 | 💬 10
-   🗓️ 2026-05-05T21:59:31+00:00
-   🔗 https://www.instagram.com/p/DX-RJcuDMes/
-
-📸 Favoritos de Abril 💙   #beautyblogger #favoritosdomês #skincareroutine #beautygram #makeup
-   👤 @ritual.da.pele | ❤️ 9 | 💬 3
-   🗓️ 2026-05-05T22:07:33+00:00
-   🔗 https://www.instagram.com/p/DX-SEWQlMw1/
-
-📸 Morning vibes 🔆 . . . .#morning #skincareroutine #life #lifestyle #photographer
-   👤 @alaa_alhusein9 | ❤️ 5 | 💬 3
-   🗓️ 2026-05-05T22:19:23+00:00
-   🔗 https://www.instagram.com/p/DX-TbCsCEsr/
-
-📸 Loving Vitamin C serum  . . . . . #vitaminc #lifestyle #skincareroutine #explore #summer
-   👤 @alaa_alhusein9 | ❤️ 6 | 💬 2
-   🗓️ 2026-05-05T22:23:15+00:00
-   🔗 https://www.instagram.com/p/DX-T3XDiLvz/
-
-📸 Everyone wants good skin.⁠ ⁠ No one wants the habits that come with it.⁠ ⁠ —⁠ ⁠ We’ll buy the serum⁠ book the facial⁠ add the LED mask⁠ ⁠ —⁠ ⁠ But water?⁠ Sleep?⁠ Sunscreen?⁠ ⁠ Tha
-   👤 @mopluswellnessbondi | ❤️ 1 | 💬 1
-   🗓️ 2026-05-05T22:00:57+00:00
-   🔗 https://www.instagram.com/p/DX-RTuxlCNA/
-
-📸 What broke me out X vs. What gave me clear skin  some of these clogged my pores, gave me cystic acne and irritated my skin vs. Products that made my skin clear and smooth this is b
-   👤 @ourbeautyunivers | ❤️ 0 | 💬 1
-   🗓️ 2026-05-05T22:19:17+00:00
-   🔗 https://www.instagram.com/p/DX-TaQ2DHsD/
-
-📸 Glass skin con @yepoda.it 🫶🏼🫧 • 🩷 The Porefect Pad: Dischetti Tonificanti Esfolianti Alle Rose, AHA, BHA + PHA 💚 The Depuff Eyespresso: Patch occhi decongestionanti con caffeina e 
-   👤 @_missyrosmer_ | ❤️ -1 | 💬 1
-   🗓️ 2026-05-05T21:58:43+00:00
-   🔗 https://www.instagram.com/p/DX-RDL7CNVj/
-
-📸 GOMMAGE BLAST 💥 Tout le mois de Mai 🌸 Exfolie. Lisse. Illumine. ✨ Your glow, our mission 💖 #RahaBeauty #skincareroutine  #skin #scrub #rose #girl #coffee #citron
-   👤 @rah___beauty | ❤️ 3 | 💬 0
-   🗓️ 2026-05-05T22:20:01+00:00
-   🔗 https://www.instagram.com/p/DX-TGFVCWy5/
-
-📸 #skincare #skincareroutine #medicube #egypt
-   👤 @hopeglow.eg | ❤️ 3 | 💬 0
-   🗓️ 2026-05-05T22:13:58+00:00
-   🔗 https://www.instagram.com/p/DX-SzUDjW4F/
-
-📸 🌟 دللي نفسكِ بعناية متكاملة من الطبيعة مع مجموعة "أرفيا"! 🌟 هل تبحثين عن السر لبشرة مشرقة، ناعمة، وصحية من الرأس حتى القدمين؟ ✨ مجموعة Arvea تقدم لكِ التوليفة المثالية التي تجمع بي
-   👤 @ar25vea | ❤️ 3 | 💬 0
-   🗓️ 2026-05-05T21:58:38+00:00
-   🔗 https://www.instagram.com/p/DX-RC_7jL9K/
-
-📸 **“⭐️النتايج الحلوة بتيجي مع الاستمرار ✨ جلسات علاجية بتقنية حديثة لعلاج الحبوب من جذورها 💆‍♀️ تقليل الالتهاب + تنظيف عميق + تقشير+توحيد لون البشرة 👌 كل جلسة بتقرّبك أكتر لبشرة صاف
-   👤 @lotusclinic_eg | ❤️ 2 | 💬 0
-   🗓️ 2026-05-05T22:24:35+00:00
-   🔗 https://www.instagram.com/p/DX-TgW7jdIC/
-
-📸 🍃🍃CẤP ẨM TỨC THÌ – DA CĂNG MỌNG NHƯ NƯỚC ✨ • Công dụng: Chứa Hyaluronic Acid 2% giúp cấp nước đa tầng, cho làn da căng bóng và mịn màng ngay lập tức. • Điểm cộng: Bổ sung Vitamin B
-   👤 @phanhbeauty | ❤️ 1 | 💬 0
-   🗓️ 2026-05-05T22:08:15+00:00
-   🔗 https://www.instagram.com/p/DX-SJbBjDOB/
-
-📸 La belleza no es solo lo que ves… es lo que transmites ✨ Cada detalle que cuidas de ti refleja tu amor propio 🤍 Y sí… también puedes verte divina mientras aprendes a cuidar tu cabe
-   👤 @smr_bysofiamoya | ❤️ 1 | 💬 0
-   🗓️ 2026-05-05T21:59:55+00:00
-   🔗 https://www.instagram.com/p/DX-RMQZEbU-/
-
-📸 Imaginate conocer todo sobre tu piel 🧖🏻‍♀️ para cuidarla como se debe!!!   🌸En la comodidad de tu hogar 🌸 Escaneo de tu piel 🌸 Productos de alta Calidad 🌸Asesoría con Consultora de
-   👤 @betydsvimk | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:28:23+00:00
-   🔗 https://www.instagram.com/p/DX-UcuoETZ1/
-
-📸 You don’t even have to rinse. ✨⁠ ⁠ ⁠ Superfruit Micellar Gel⁠ cleans your skin… and keeps it hydrated.⁠ ⁠ No sink.⁠ No foam.⁠ No effort.⁠ ⁠ ⁠ ✨ removes makeup + impurities⁠ ✨ refre
-   👤 @butterandblush | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:28:15+00:00
-   🔗 https://www.instagram.com/p/DX-UaiHk20s/
-
-📸 ✨ Something beautiful is on the way.  Meet skincare inspired by Korean beauty and created to bring out your skin’s natural glow 🌸  Gentle formulas. Deep hydration. Radiant results.
-   👤 @alve_korean_beauty | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:27:54+00:00
-   🔗 https://www.instagram.com/p/DX-UZZoiCiO/
-
-📸 ✨ ¿𝗤𝘂𝗲́ 𝗲𝘀𝘁𝗮́ 𝘁𝗿𝗮𝘁𝗮𝗻𝗱𝗼 𝗱𝗲 𝗱𝗲𝗰𝗶𝗿𝘁𝗲 𝘁𝘂 𝗽𝗶𝗲𝗹? ✨  No adivines más. Es momento de darle a tu rostro el cuidado exacto que merece con tecnología de vanguardia. 🔬 Este 𝟭𝟰 𝗱𝗲 𝗠𝗮𝘆𝗼, en Bene
-   👤 @nicoletorrez_estetica_avanzada | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:27:52+00:00
-   🔗 https://www.instagram.com/p/DX-UYwmj7qv/
-
-📸 Tvoje lice zaslužuje ovaj sjaj! ✨🍎  ​Zaboravi na agresivne pilinge koji grebu kožu. Naš enzimski piling od nara radi pametnije, a ne jače! 🫧💎  ​Zašto je on tvoj novi favorit?  ✅ Pr
-   👤 @lepota_bez_mane | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:26:40+00:00
-   🔗 https://www.instagram.com/p/DX-UQUNjKxq/
-
-📸 Un instant de pure gourmandise…  La crème mains senteur macaron de POÈME enveloppe vos mains d’une texture fondante et ultra-douce, comme une pâtisserie délicatement sucrée. Elle h
-   👤 @poeme.tunisie | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:24:54+00:00
-   🔗 https://www.instagram.com/p/DX-UDKVjOZd/
-
-📸 Skincare guide #skin #activeingredients #skingoals #skincareroutine #skinroutine
-   👤 @skin_by_ren2 | ❤️ 0 | 💬 0
-   🗓️ 2026-05-05T22:23:28+00:00
-   🔗 https://www.instagram.com/p/DX-TzmNEn89/
+   🔼 1 (100%) • 💬 0 • 2026-05-02 15:55
+   https://redd.it/1t1qlkv
+
+5. 👋 Welcome to r/redlighttherapysci - Introduce Yourself and Read First!
+   r/redlighttherapysci
+   🔼 1 (100%) • 💬 0 • 2026-05-02 14:46
+   https://redd.it/1t1oybc
+
+1. [🧪 Protocols &amp; Self-Experiments] The difference between my teeth a few years ago and now is insane
+   r/Biohackers
+   🔼 990 (89%) • 💬 827 • 2026-04-29 15:57
+   https://redd.it/1syzky7
+
+2. [🧠 Cognition, Mood &amp; Nootropics] Creatine just fixed my life
+   r/Biohackers
+   🔼 820 (97%) • 💬 362 • 2026-04-30 00:04
+   https://redd.it/1szd6c1
+
+3. [⌚ Tools, Wearables &amp; Devices] My cyborg arm: Update
+   r/Biohackers
+   🔼 785 (83%) • 💬 585 • 2026-04-30 16:22
+   https://redd.it/1szximp
+
+4. [♾️ Longevity &amp; Anti-Aging] Biohacker Bryan Johnson claims partner has 'top 1% of vaginas' after publishing oral sex report
+   r/Biohackers
+   🔼 684 (86%) • 💬 326 • 2026-04-30 17:52
+   https://redd.it/1t00a3l
+
+5. [🧪 Protocols &amp; Self-Experiments] Health guru Mark Hyman and lobster expert Jordan Peterson have two things in common: 1. they get stem cell treatments from Dr Adeel Khan 2. They both recently got sepsis and nearly died, with Peterson hanging on currently for dear life. Fascinating in depth article here
+   r/Biohackers
+   🔼 648 (93%) • 💬 139 • 2026-05-05 03:02
+   https://redd.it/1t40kdi
+
+6. [🧪 Protocols &amp; Self-Experiments] Ran 11 popular natural t boosters with monthly bloodwork for a year. Here's what actually moved my t from 480 to 870.
+   r/Biohackers
+   🔼 582 (97%) • 💬 123 • 2026-05-05 15:29
+   https://redd.it/1t4finx
+
+7. [♾️ Longevity &amp; Anti-Aging] Andrew Huberman says most men over 40 should probably be taking Cialis every single day.
+   r/Biohackers
+   🔼 556 (80%) • 💬 839 • 2026-05-03 07:14
+   https://redd.it/1t2caxt
+
+8. [🧪 Protocols &amp; Self-Experiments] The syndrome of the ultra fit - Is this what is happening to Bryan Johnson?
+   r/Biohackers
+   🔼 493 (95%) • 💬 175 • 2026-04-30 12:03
+   https://redd.it/1szrpza
+
+9. [📰 Research &amp; Studies] TIL white rice and flour mass processing are relatively recent inventions that caused malnutrition epidemics that killed tens of thousands worldwide and were a mystery to medicine
+   r/Biohackers
+   🔼 411 (93%) • 💬 58 • 2026-05-02 06:05
+   https://redd.it/1t1fc14
+
+10. [🥗 Nutrition &amp; Metabolism] 4 months farm-only groceries: eczema gone, gut healed, 10 lbs up
+   r/Biohackers
+   🔼 311 (86%) • 💬 181 • 2026-05-03 21:22
+   https://redd.it/1t2uu5t
+
+11. [♾️ Longevity &amp; Anti-Aging] People are taking wellness too far, it's unhinged
+   r/Biohackers
+   🔼 304 (86%) • 💬 365 • 2026-05-02 19:00
+   https://redd.it/1t1vcq2
+
+12. [💉 Peptides &amp; Hormones] Unless you're morbidly obese, recovering from an injury, or competing what are you doing?
+   r/Biohackers
+   🔼 304 (83%) • 💬 303 • 2026-05-04 05:01
+   https://redd.it/1t35osc
+
+13. [🥗 Nutrition &amp; Metabolism] What should all of us eat weekly at least once
+   r/Biohackers
+   🔼 297 (97%) • 💬 417 • 2026-05-02 08:04
+   https://redd.it/1t1hkyu
+
+14. [🧠 Cognition, Mood &amp; Nootropics] Never taking 5,000IU of Vitamin D3 again
+   r/Biohackers
+   🔼 262 (79%) • 💬 397 • 2026-05-01 16:39
+   https://redd.it/1t0vas1
+
+15. [💪 Exercise, Fitness &amp; Recovery] How can I isolate my temple muscles in workouts more?
+   r/Biohackers
+   🔼 213 (84%) • 💬 94 • 2026-05-01 06:11
+   https://redd.it/1t0ipjz
+No posts found.
+
+1. The cardiovascular data from the SELECT trial suggests GLP-1 medications are doing something to longevity biology that has nothing to do with weight loss. Worth understanding.
+   r/longevity
+   🔼 559 (98%) • 💬 129 • 2026-04-30 01:35
+   https://redd.it/1szfdzg
+
+2. PBS Eons: How Dinosaurs May Have Cursed Us With Aging
+   r/longevity
+   🔼 117 (98%) • 💬 6 • 2026-04-29 11:18
+   https://redd.it/1sytmgx
+
+3. Targeting Senescent Cells as a Treatment for Chronic Obstructive Pulmonary Disease
+   r/longevity
+   🔼 40 (95%) • 💬 3 • 2026-04-29 20:39
+   https://redd.it/1sz7llu
+
+4. AMA: Oncologist Tarek Mouhieddine, MD of Dana-Farber Cancer Institute
+   r/longevity
+   🔼 17 (95%) • 💬 31 • 2026-05-05 17:50
+   https://redd.it/1t4jeou
+
+1. L-theanine actually works, I think. :)
+   r/Supplements
+   🔼 338 (98%) • 💬 161 • 2026-04-29 20:24
+   https://redd.it/1sz764k
+
+2. Thoughts?
+   r/Supplements
+   🔼 268 (82%) • 💬 175 • 2026-05-01 12:07
+   https://redd.it/1t0p5kb
+
+3. Easy Advice Right There
+   r/Supplements
+   🔼 181 (94%) • 💬 35 • 2026-05-02 16:31
+   https://redd.it/1t1rhib
+
+4. [General Question] Not famous supplements, but extremely underrated.
+   r/Supplements
+   🔼 136 (95%) • 💬 262 • 2026-05-04 00:12
+   https://redd.it/1t2z7rz
+
+5. [Scientific Study] Vitamin C and Aging
+   r/Supplements
+   🔼 128 (96%) • 💬 71 • 2026-04-30 12:24
+   https://redd.it/1szs3os
+
+6. What are the best supplements to slow down aging?
+   r/Supplements
+   🔼 95 (94%) • 💬 123 • 2026-05-02 18:14
+   https://redd.it/1t1u5y5
+
+7. [General Question] best sleep supplement that actually worked for you?
+   r/Supplements
+   🔼 71 (95%) • 💬 203 • 2026-05-04 22:59
+   https://redd.it/1t3ukej
+
+8. If you're taking anti-inflammatory supplements for brain health, be aware that there's no population-level data showing those markers actually connect to what's happening in your brain.
+   r/Supplements
+   🔼 66 (85%) • 💬 16 • 2026-05-04 22:59
+   https://redd.it/1t3ujqs
+
+9. [General Question] Is it safe to take 5g of creatine daily for life?
+   r/Supplements
+   🔼 44 (81%) • 💬 47 • 2026-04-30 10:10
+   https://redd.it/1szps2m
+
+10. [Recommendations ] What supplements help with social anxiety?
+   r/Supplements
+   🔼 47 (93%) • 💬 88 • 2026-04-29 03:06
+   https://redd.it/1syk1h5
+
+11. [Recommendations ] I've been taking psyllium for 3 days now and havent pooped in 3 days
+   r/Supplements
+   🔼 43 (89%) • 💬 52 • 2026-04-29 19:50
+   https://redd.it/1sz66a4
+
+12. [General Question] Immediate effect supplements for ADHD, mental and cognitive issues
+   r/Supplements
+   🔼 44 (88%) • 💬 59 • 2026-05-05 10:22
+   https://redd.it/1t498y9
+
+13. anyone here fix their fatigue just by sorting out vitamin levels?
+   r/Supplements
+   🔼 40 (93%) • 💬 46 • 2026-05-02 05:50
+   https://redd.it/1t1f14g
+
+14. [General Question] luteal phase supplements - what the research says vs what actually worked for me
+   r/Supplements
+   🔼 34 (90%) • 💬 16 • 2026-05-02 22:35
+   https://redd.it/1t210xu
+
+15. I know size isn’t everything, but …
+   r/Supplements
+   🔼 30 (74%) • 💬 36 • 2026-04-29 21:50
+   https://redd.it/1sz9kw7
+
+1. [Review] Best sunscreen? I tested 17+ [review]
+   r/SkincareAddiction
+   🔼 2725 (98%) • 💬 350 • 2026-04-30 14:31
+   https://redd.it/1szuqh1
+
+2. [Selfie/B&amp;A] [B&amp;A] 8 Month Acne Journey
+   r/SkincareAddiction
+   🔼 954 (100%) • 💬 47 • 2026-05-01 23:58
+   https://redd.it/1t17a9y
+
+3. [Selfie/B&amp;A] [B&amp;A] Face mole removal update
+   r/SkincareAddiction
+   🔼 720 (98%) • 💬 51 • 2026-05-01 23:13
+   https://redd.it/1t165e6
+
+4. [PSA] [PSA] jiyu toner pads fake reviews/bot comments
+   r/SkincareAddiction
+   🔼 565 (99%) • 💬 26 • 2026-04-29 04:59
+   https://redd.it/1symk3h
+
+5. [Discussion] [Sun Care] Why are men so avoidant when it comes to using sunscreen?
+   r/SkincareAddiction
+   🔼 389 (92%) • 💬 231 • 2026-05-04 20:29
+   https://redd.it/1t3q9q7
+
+6. [Selfie/B&amp;A] [before and after] 1 year tretinoin update
+   r/SkincareAddiction
+   🔼 256 (100%) • 💬 43 • 2026-04-29 07:56
+   https://redd.it/1syq3b0
+
+7. [Miscellaneous] [miscellaneous] Tired of people posting images of their perfect skin and complaining about it being damaged/bad
+   r/SkincareAddiction
+   🔼 205 (87%) • 💬 35 • 2026-05-03 15:39
+   https://redd.it/1t2lre6
+
+8. [Product Request] [Product Request] Hospital IV gave me the best skin of my life… now what do I do with this information?
+   r/SkincareAddiction
+   🔼 194 (89%) • 💬 201 • 2026-05-05 04:14
+   https://redd.it/1t427az
+
+9. [Acne] [Acne] accutane results after month
+   r/SkincareAddiction
+   🔼 192 (99%) • 💬 14 • 2026-05-03 23:31
+   https://redd.it/1t2y7ib
+
+10. [Sun Care] [Sun Care] PSA: sunscreen with modern filters available in the US!!! Geek&amp;Gorgeous Zero Feel
+   r/SkincareAddiction
+   🔼 188 (95%) • 💬 47 • 2026-05-04 13:23
+   https://redd.it/1t3etm5
+
+11. [Selfie/B&amp;A] [B&amp;A] as someone who hates skin care routines with passion
+   r/SkincareAddiction
+   🔼 131 (92%) • 💬 26 • 2026-05-03 00:15
+   https://redd.it/1t23hzz
+
+12. [Miscellaneous] [Misc] What is a skincare/beauty tip that is underrated?
+   r/SkincareAddiction
+   🔼 118 (98%) • 💬 113 • 2026-05-01 18:30
+   https://redd.it/1t0ye52
+
+13. [Selfie/B&amp;A] [before and after] stopping tretinoin
+   r/SkincareAddiction
+   🔼 102 (96%) • 💬 38 • 2026-04-29 22:22
+   https://redd.it/1szah35
+
+14. [Acne] [Acne] dermal collapse after cystic acne injected with kenalog (1X) 4 months ago - help!
+   r/SkincareAddiction
+   🔼 75 (92%) • 💬 14 • 2026-04-29 06:52
+   https://redd.it/1syovgv
+
+15. [Acne] [Acne] Has anyone actually cleared blackheads long term?
+   r/SkincareAddiction
+   🔼 71 (86%) • 💬 87 • 2026-05-02 09:18
+   https://redd.it/1t1iwwe
+
+1. [Satire] When you use 1 mg fin vs you use 2.5 mg dut
+   r/tressless
+   🔼 2269 (97%) • 💬 180 • 2026-04-29 22:36
+   https://redd.it/1szavcw
+
+2. [Is this regrowth?] 2024 vs 2026. Ask me any questions you have.
+   r/tressless
+   🔼 668 (95%) • 💬 300 • 2026-05-01 00:05
+   https://redd.it/1t0akfg
+
+3. [Satire] Literally all of my friends now that we’re 25
+   r/tressless
+   🔼 604 (96%) • 💬 164 • 2026-04-29 16:43
+   https://redd.it/1sz0ukv
+
+4. [Satire] Car broke down after 6 years on oral fin
+   r/tressless
+   🔼 553 (89%) • 💬 85 • 2026-05-05 11:49
+   https://redd.it/1t4apkr
+
+5. [Research/Science] Reddit post from 19 years ago...
+   r/tressless
+   🔼 433 (99%) • 💬 47 • 2026-05-04 05:31
+   https://redd.it/1t36ap1
+
+6. [Shaved/buzzed] 18M - Have had loads of problems with my hair, decided to shave it off yesterday
+   r/tressless
+   🔼 421 (98%) • 💬 78 • 2026-05-04 16:21
+   https://redd.it/1t3j51d
+
+7. [Progress Pictures] : 3-Year Transformation: How adding an LLLT Cap finally stabilized my 200+ hair/day shed (Fin/Min/Niz/LLLT)
+   r/tressless
+   🔼 314 (86%) • 💬 105 • 2026-05-02 19:19
+   https://redd.it/1t1vv91
+
+8. [Progress Pictures] I stopped finasteride and minoxidil and I regret it
+   r/tressless
+   🔼 247 (96%) • 💬 151 • 2026-05-01 14:25
+   https://redd.it/1t0ryk3
+
+9. [Progress Pictures] Update: 9 months of oral Dutasteride &amp; topical Minoxidil has done more than I ever expected
+   r/tressless
+   🔼 223 (100%) • 💬 39 • 2026-05-05 18:25
+   https://redd.it/1t4kfdp
+
+10. [Transplants] How is this hairline? Doesn't look natural to me (8 months)
+   r/tressless
+   🔼 221 (88%) • 💬 197 • 2026-05-01 18:08
+   https://redd.it/1t0xrkm
+
+11. [Research/Science] I got two hair transplants in Istanbul, one was good and one was bad, this is what I learned
+   r/tressless
+   🔼 218 (93%) • 💬 63 • 2026-05-02 01:05
+   https://redd.it/1t18wor
+
+12. [Progress Pictures] 3 months in with 1mg fin and topical minox
+   r/tressless
+   🔼 189 (100%) • 💬 42 • 2026-05-03 14:18
+   https://redd.it/1t2jwh7
+
+13. [Progress Pictures] Don't be inconsistent with Minoxidil, you will lose progress fast. My new plan for future.
+   r/tressless
+   🔼 158 (96%) • 💬 81 • 2026-04-29 16:02
+   https://redd.it/1syzqne
+
+14. [Progress Pictures] 5 months only topical minoxidil
+   r/tressless
+   🔼 151 (96%) • 💬 71 • 2026-04-30 13:24
+   https://redd.it/1szt9om
+
+15. [Progress Pictures] My hairline after 10 months of treatment
+   r/tressless
+   🔼 149 (97%) • 💬 78 • 2026-05-02 18:08
+   https://redd.it/1t1u0li
+
+1. [Hair transplant] I did it!
+   r/FemaleHairLoss
+   🔼 450 (100%) • 💬 56 • 2026-04-29 20:48
+   https://redd.it/1sz7uj0
+
+2. [Discussion] Evolution rant + fun meme
+   r/FemaleHairLoss
+   🔼 393 (99%) • 💬 19 • 2026-04-29 23:46
+   https://redd.it/1szcpx7
+
+3. [Rant] After five year, ten thousand dollars, and a dozen different treatments, I give up
+   r/FemaleHairLoss
+   🔼 284 (99%) • 💬 79 • 2026-05-05 05:18
+   https://redd.it/1t43n9o
+
+4. [Progress Pictures] 2 month minoxidil update
+   r/FemaleHairLoss
+   🔼 270 (100%) • 💬 24 • 2026-05-01 15:32
+   https://redd.it/1t0tkg7
+
+5. [Alternative Hair] Bit of an unorthodox post. I saved all my hair from the past two months.
+   r/FemaleHairLoss
+   🔼 150 (97%) • 💬 13 • 2026-05-02 08:48
+   https://redd.it/1t1idhe
+
+6. [Progress Pictures] 4 Month Minoxidil Update
+   r/FemaleHairLoss
+   🔼 123 (100%) • 💬 20 • 2026-05-01 16:20
+   https://redd.it/1t0usn9
+
+7. [Progress Pictures] From 2023 to 2026
+   r/FemaleHairLoss
+   🔼 118 (100%) • 💬 10 • 2026-05-04 22:28
+   https://redd.it/1t3to07
+
+8. [Progress Pictures] 3.5 months progress
+   r/FemaleHairLoss
+   🔼 117 (99%) • 💬 37 • 2026-04-29 20:15
+   https://redd.it/1sz6www
+
+9. [Support/Advice] Crying in the car. I can’t take this anymore.
+   r/FemaleHairLoss
+   🔼 110 (98%) • 💬 41 • 2026-05-03 17:46
+   https://redd.it/1t2ozhs
+
+10. [Progress Pictures] Candid photo big win!
+   r/FemaleHairLoss
+   🔼 105 (100%) • 💬 20 • 2026-05-04 03:05
+   https://redd.it/1t33513
+
+11. [Progress Pictures] 3 months on minoxidil. Started January 20th.
+   r/FemaleHairLoss
+   🔼 106 (99%) • 💬 23 • 2026-05-01 01:12
+   https://redd.it/1t0c6ly
+
+12. [Support/Advice] Where are the women with little to no improvements after YEARS of treatment????
+   r/FemaleHairLoss
+   🔼 103 (97%) • 💬 60 • 2026-05-01 02:30
+   https://redd.it/1t0dz88
+
+13. [Progress Pictures] I think I see a little difference but idk?? 10 weeks
+   r/FemaleHairLoss
+   🔼 91 (100%) • 💬 33 • 2026-04-30 08:47
+   https://redd.it/1szocio
+
+14. [Progress Pictures] Seriously, I'd be lost with out monoxidil.
+   r/FemaleHairLoss
+   🔼 87 (99%) • 💬 24 • 2026-04-29 05:26
+   https://redd.it/1syn4zb
+
+15. [Progress Pictures] Do you see any progress?
+   r/FemaleHairLoss
+   🔼 79 (99%) • 💬 21 • 2026-04-29 20:58
+   https://redd.it/1sz84t9
+
+1. Some people here should not be taking peptides.
+   r/Peptides
+   🔼 179 (87%) • 💬 85 • 2026-05-01 21:50
+   https://redd.it/1t13xzr
+
+2. USPS sucks
+   r/Peptides
+   🔼 72 (86%) • 💬 61 • 2026-04-29 22:27
+   https://redd.it/1szam6z
+
+3. There are no peptides for muscle growth.
+   r/Peptides
+   🔼 71 (72%) • 💬 229 • 2026-05-04 20:56
+   https://redd.it/1t3r1sz
+
+4. Thoughts on doctors talking about BPC and TB-500 being dangerous
+   r/Peptides
+   🔼 59 (87%) • 💬 106 • 2026-05-03 16:02
+   https://redd.it/1t2mbe4
+
+5. Have you dealt with loose skin issues? With peptides, is there any hope for me?
+   r/Peptides
+   🔼 42 (89%) • 💬 41 • 2026-05-03 15:09
+   https://redd.it/1t2l208
+
+6. Automatic pens help needed
+   r/Peptides
+   🔼 33 (84%) • 💬 59 • 2026-05-01 15:54
+   https://redd.it/1t0u458
+
+7. Worse sleep after CJC/Ipa
+   r/Peptides
+   🔼 26 (97%) • 💬 49 • 2026-04-29 16:53
+   https://redd.it/1sz14uz
+
+8. best peptide for brain fog and mood
+   r/Peptides
+   🔼 21 (84%) • 💬 53 • 2026-05-01 00:04
+   https://redd.it/1t0air7
+
+9. Anti Drug Antibodies?
+   r/Peptides
+   🔼 20 (96%) • 💬 8 • 2026-05-03 13:16
+   https://redd.it/1t2ioda
+
+10. A Synergistic Triad for Metabolic Health — Tirzepatide + MOTS-c + CoQ10 ... soliciting impressions, thoughts, opinions
+   r/Peptides
+   🔼 18 (93%) • 💬 3 • 2026-05-03 04:23
+   https://redd.it/1t28xwj
+
+11. MOTS-C and joint resiliency/robustness, your experience?
+   r/Peptides
+   🔼 15 (95%) • 💬 5 • 2026-04-29 13:18
+   https://redd.it/1syvu70
+
+12. Does this look like mold in the vial?
+   r/Peptides
+   🔼 12 (74%) • 💬 8 • 2026-05-05 08:26
+   https://redd.it/1t47ale
+
+13. Older gen on peps
+   r/Peptides
+   🔼 11 (92%) • 💬 36 • 2026-05-02 10:08
+   https://redd.it/1t1js4n
+
+14. Did I lose my shipment?
+   r/Peptides
+   🔼 10 (86%) • 💬 22 • 2026-04-30 21:06
+   https://redd.it/1t05qnu
+
+15. CJC vs Tesa+Ipa?
+   r/Peptides
+   🔼 9 (80%) • 💬 14 • 2026-04-29 08:06
+   https://redd.it/1syq9q8
+
+1. [Discussion :Discussion:] Holy Grail in my stash
+   r/NootropicsDepot
+   🔼 69 (94%) • 💬 44 • 2026-05-03 00:00
+   https://redd.it/1t235af
+
+2. [Review :Review:] ND stay winning
+   r/NootropicsDepot
+   🔼 48 (98%) • 💬 11 • 2026-05-01 18:53
+   https://redd.it/1t0z106
+
+3. [Review :Review:] Gotu kola is slept on for injuries
+   r/NootropicsDepot
+   🔼 27 (97%) • 💬 9 • 2026-04-30 02:05
+   https://redd.it/1szg2wl
+
+4. [Lab :Lab:] Eurycomax - my (almost 1 year update)
+   r/NootropicsDepot
+   🔼 27 (97%) • 💬 15 • 2026-04-30 18:26
+   https://redd.it/1t01932
+
+5. [Request :Request:] Product request: Paraxanthine
+   r/NootropicsDepot
+   🔼 23 (96%) • 💬 4 • 2026-05-02 19:24
+   https://redd.it/1t1vznr
+
+6. 🎙️Coming Soon! In Search of Insight EP #56 | InfiniFiber | Shit Like A Man, Man🎧
+   r/NootropicsDepot
+   🔼 22 (97%) • 💬 1 • 2026-05-01 19:02
+   https://redd.it/1t0z9to
+
+7. [Discussion :Discussion:] Best supplements for mood / mental uplift?
+   r/NootropicsDepot
+   🔼 15 (90%) • 💬 30 • 2026-05-04 01:06
+   https://redd.it/1t30hz7
+
+8. [Discussion :Discussion:] High Potency Saffron max daily dose?
+   r/NootropicsDepot
+   🔼 12 (93%) • 💬 14 • 2026-05-05 16:14
+   https://redd.it/1t4gqn2
+
+9. [Stacks :Stacks:] Anyone here try Erinamax with other things like Saffron and/or Polygala?
+   r/NootropicsDepot
+   🔼 11 (93%) • 💬 4 • 2026-05-03 19:20
+   https://redd.it/1t2ri96
+
+10. [Discussion :Discussion:] Help with Infinifiber!
+   r/NootropicsDepot
+   🔼 12 (94%) • 💬 6 • 2026-05-01 16:31
+   https://redd.it/1t0v37x
+
+11. 🎙️NEW PREMIERE In Search of Insight Episode #56 | InfiniFiber | Shit Like A Man, Man🎧
+   r/NootropicsDepot
+   🔼 11 (100%) • 💬 0 • 2026-05-05 18:52
+   https://redd.it/1t4l76z
+
+12. [Lab :Lab:] Boron makes my free T increase but E2 gets low. Feel a lot of fatigue.
+   r/NootropicsDepot
+   🔼 9 (92%) • 💬 19 • 2026-05-02 19:49
+   https://redd.it/1t1wodp
+
+13. [Discussion :Discussion:] Recommendations/ thoughts for anhedonia
+   r/NootropicsDepot
+   🔼 9 (92%) • 💬 13 • 2026-04-30 18:05
+   https://redd.it/1t00oim
+
+14. [Discussion :Discussion:] New Site Design!
+   r/NootropicsDepot
+   🔼 10 (100%) • 💬 2 • 2026-05-05 22:18
+   https://redd.it/1t4r633
+
+15. [Review :Review:] Micromag and Microzinc
+   r/NootropicsDepot
+   🔼 9 (100%) • 💬 4 • 2026-05-01 00:36
+   https://redd.it/1t0bbq3
+
+## Instagram Account Watch
+
+# Instagram Account Watch — 2026-05-06
+
+## @hubermanlab
+📸 MUCH OF LEARNING (IN DOGS & HUMANS) IS TOP DOWN INHIBITION •  Much of learning involves adjusting the connections between the prefrontal cortex and deeper brain structures that con
+   👁️ 191,809 | ❤️ 31,365 | 💬 1,372
+   🗓️ 2026-05-05T19:15:26+00:00
+   🔗 https://www.instagram.com/p/DX99VXjPcNZ/
+
+📸 Comment AGENCY & I’ll DM you a link to the episode  My guest on the Huberman Lab podcast out now is Dr. Paul Conti, MD, a board-certified psychiatrist and an expert in how people c
+   👁️ 0 | ❤️ 1,752 | 💬 260
+   🗓️ 2026-05-05T01:02:52+00:00
+   🔗 https://www.instagram.com/p/DX8ArjZJzoQ/
+
+
+## @daveasprey
+No recent posts found.
+
+## @bengreenfieldfitness
+📸 My wife and I aren't sappy Hallmark holiday people, but I’m still giving her some spermidine this Mother’s Day... 😉  This year, I added a @Young_Goose_Skincare bundle to my Mother’
+   👁️ 4,793 | ❤️ 72 | 💬 19
+   🗓️ 2026-05-04T20:48:34+00:00
+   🔗 https://www.instagram.com/p/DX7kL4ujTMc/
+
+📸 A CEO I work with used to keep a notepad next to his laptop just to track which thoughts he’d already had twice.  Krishna ran a $250M manufacturing company, works 65 to 100-hour wo
+   👁️ 0 | ❤️ 5 | 💬 0
+   🗓️ 2026-05-05T22:54:16+00:00
+   🔗 https://www.instagram.com/p/DX-XZuwnHCQ/
+
+
+## @bryanjohnson_
+No recent posts found.
+
+## @timferriss
+No recent posts found.
+
+## @drjackkruse
+📸 My mentors in medical told me when I was a learning student that people in authority in medicine and science lie and the job in a constitutional republic is to remain skeptical abo
+   👁️ 0 | ❤️ 312 | 💬 10
+   🗓️ 2026-05-04T13:06:09+00:00
+   🔗 https://www.instagram.com/p/DX6vUELjsTH/
+
+📸 This podcast was enfuego and will support my talks in Prague in a few weeks. https://www.youtube.com/watch?v=mMJDp0qzeeA&t=9s Have a listen.
+   👁️ 0 | ❤️ 264 | 💬 11
+   🗓️ 2026-05-05T13:25:54+00:00
+   🔗 https://www.instagram.com/p/DX9WXnbjgkv/
+
+
+## @siimland
+📸 Read caption for details⬇️⬇️  Just 3-4 minutes of vigorous physical activity a day could lower your cancer risk  A 2023 study finds that over ~6.7 years: ⚡️ 3.4–3.7 min/day of vigo
+   👁️ 2,250 | ❤️ 64 | 💬 1
+   🗓️ 2026-05-05T10:48:42+00:00
+   🔗 https://www.instagram.com/p/DX9EUmdABoE/
+
+📸 How long you live is influenced by how long your same-sex parent lives♀️♂️  Men whose fathers lived to 90 were 42% more likely to reach 90 as well.   If their fathers lived to 100,
+   👁️ 0 | ❤️ -1 | 💬 11
+   🗓️ 2026-05-04T12:57:10+00:00
+   🔗 https://www.instagram.com/p/DX6uSUvCJdn/
+
+
+## @iceman_hof
+📸 Double your push-ups in just 4 minutes. Think you can do it?   It sounds impossible until you try it. But it’s simple, it’s powerful, and it works. 🔥  How many push-ups can you do 
+   👁️ 45,994 | ❤️ 3,044 | 💬 893
+   🗓️ 2026-05-04T17:00:59+00:00
+   🔗 https://www.instagram.com/p/DX7KNgcoZKk/
+
+📸 When we think of physical things, we often think of objects like tables and chairs, a cat or dog or perhaps our own bodies.  But an idea. Even an idea is physical. Every thought ru
+   👁️ 4,038 | ❤️ 459 | 💬 4
+   🗓️ 2026-05-05T17:00:36+00:00
+   🔗 https://www.instagram.com/p/DX9uX45kwf9/
+
+
+## @laura_hof_alchemy
+No recent posts found.
+
+
+## YouTube Account Watch
+
+# YouTube Account Watch — 2026-05-06
+
+## @hubermanlab
+▶️ Control Sugar Cravings & Metabolism with Science-Based Tools | Huberman Lab Essentials
+   👁️ 75,227 | 💬 123
+   🗓️ 2026-04-30T12:01:28.000Z
+   🔗 https://www.youtube.com/watch?v=qUUfucHC7tU
+
+▶️ Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti
+   👁️ 42,741 | 💬 112
+   🗓️ 2026-05-04T12:01:08.000Z
+   🔗 https://www.youtube.com/watch?v=cWCs7dxrt-A
+
+
+## @DaveAspreyBPR
+▶️ This Invisible Molecule Is Like Mitochondrial Rocket Fuel
+   👁️ 12,511 | 💬 72
+   🗓️ 2026-04-30T17:50:02.000Z
+   🔗 https://www.youtube.com/watch?v=i06E1XsrUxw
+
+▶️ Brain Fog Starts in Your Feet (Scientifically Proven)
+   👁️ 7,883 | 💬 30
+   🗓️ 2026-05-02T14:00:04.000Z
+   🔗 https://www.youtube.com/watch?v=11AhvWgt2eo
+
+▶️ Eat These Foods + Spices for 8 Weeks To Get 3 Years Younger | Kara Fitzgerald
+   👁️ 3,735 | 💬 17
+   🗓️ 2026-05-05T15:27:33.000Z
+   🔗 https://www.youtube.com/watch?v=ZddEyGjcRuo
+
+
+## @BenGreenfieldLife
+▶️ This Cell Can Find Every Damaged Tissue In Your Body
+   👁️ 1,407 | 💬 6
+   🗓️ 2026-05-02T09:00:58.000Z
+   🔗 https://www.youtube.com/watch?v=lfa2XA97UGs
+
+▶️ Private Chef Teaches Biohacker How To Cook 3 Italian Dishes! (With The World's Best Beef?!)
+   👁️ 657 | 💬 3
+   🗓️ 2026-05-01T21:00:03.000Z
+   🔗 https://www.youtube.com/watch?v=MWAdnKblAcw
+
+▶️ Nobody Mentors Fathers Anymore with John Schott
+   👁️ 402 | 💬 1
+   🗓️ 2026-04-30T09:01:11.000Z
+   🔗 https://www.youtube.com/watch?v=oPB7zzTmtlo
+
+
+## @BryanJohnson
+No recent videos found.
+
+## @timferriss
+▶️ The AI Frontier and How to Spot Billion-Dollar Companies Before Everyone Else — Elad Gil
+   👁️ 14,131 | 💬 25
+   🗓️ 2026-04-29T22:04:02.000Z
+   🔗 https://www.youtube.com/watch?v=HutNi2cNsCg
+
+▶️ Practice Being Broke Before Quitting Your Job — Michelle Khare
+   👁️ 4,541 | 💬 9
+   🗓️ 2026-04-30T17:44:22.000Z
+   🔗 https://www.youtube.com/watch?v=UOyDS1vakL8
+
+
+## @jackkruse
+No recent videos found.
+
+## @SiimLand
+▶️ The Missing Amino Acid That Melts Belly Fat and Visceral Fat
+   👁️ 19,775 | 💬 147
+   🗓️ 2026-04-29T13:01:40.000Z
+   🔗 https://www.youtube.com/watch?v=5vyJWTCXyK4
+
+▶️ Why People Are Disappointed with Astaxanthin
+   👁️ 18,089 | 💬 171
+   🗓️ 2026-05-04T13:08:04.000Z
+   🔗 https://www.youtube.com/watch?v=ZTwlmD2BqpY
+
+▶️ Scientists Analyzed 400 Drugs — Only These May Extend Lifespan
+   👁️ 4,319 | 💬 46
+   🗓️ 2026-05-01T13:10:49.000Z
+   🔗 https://www.youtube.com/watch?v=O5Ro-dL738I
+
+
+## @wimhof1
+No recent videos found.
 
