@@ -1,19 +1,41 @@
-# Axrah Trend Scraper
+# Axrah Trend Scraper & CEO Brief
 
-Social media trend research for AXRAH across Reddit, TikTok, YouTube, and Instagram.
+Social media trend research and executive intelligence for AXRAH.
 
-## How to run a scrape
+## Repo structure
+
+```
+axrah-trend-scraper/
+├── run-scrape.sh              — main scrape entry point
+├── scrape-topics.env          — centralized topic/query config
+├── outputs/latest.md          — consolidated latest scrape (downstream routines read this)
+├── reddit-trends/             — raw Reddit outputs (timestamped)
+├── tiktok-trends/             — raw TikTok outputs (timestamped)
+├── youtube-trends/            — raw YouTube outputs (timestamped)
+├── instagram-trends/          — raw Instagram outputs (timestamped)
+├── instagram-account-watch/   — influencer IG profile watch
+├── youtube-account-watch/     — influencer YT channel watch
+├── ceo-brief/
+│   ├── SKILL.md               — full instructions for the CEO brief routine
+│   └── briefs/                — daily brief outputs
+└── .claude/skills/            — scraper scripts
+```
+
+## Two routines, two accounts
+
+### 1. Trend Scraper (runs from Moritz's account)
 
 ```bash
 bash run-scrape.sh
 ```
 
-This scrapes all 4 platforms using topics from `scrape-topics.env`, writes timestamped per-platform files, and consolidates results into `outputs/latest.md`.
+Scrapes Reddit (11 relevant subreddits), TikTok, YouTube, Instagram + influencer watchlists. Commits consolidated output to `outputs/latest.md`.
 
-## Output for downstream consumers
+### 2. CEO Brief (runs from Tiger's account)
 
-`outputs/latest.md` is the canonical output file. It contains the latest scrape results across all platforms in a single consolidated markdown file. Other routines (e.g. CEO brief) should fetch this file via raw GitHub URL:
+Reads `outputs/latest.md` via raw GitHub URL, checks Gmail, does web research, and produces an executive brief. See `ceo-brief/SKILL.md` for full instructions.
 
+The brief routine fetches trend data from:
 ```
 https://raw.githubusercontent.com/moritzkremb/axrah-trend-scraper/main/outputs/latest.md
 ```
@@ -22,17 +44,7 @@ https://raw.githubusercontent.com/moritzkremb/axrah-trend-scraper/main/outputs/l
 
 Edit `scrape-topics.env` — not the shell scripts. Changes flow automatically on next run.
 
-## Structure
-
-- `run-scrape.sh` — main entry point
-- `scrape-topics.env` — centralized topic/query config
-- `outputs/latest.md` — consolidated latest scrape (what downstream routines read)
-- `reddit-trends/` — raw Reddit outputs (timestamped)
-- `tiktok-trends/` — raw TikTok outputs (timestamped)
-- `youtube-trends/` — raw YouTube outputs (timestamped)
-- `instagram-trends/` — raw Instagram outputs (timestamped)
-- `.claude/skills/` — scraper scripts (Apify-based for TikTok/YouTube/Instagram, Reddit JSON API)
-
 ## Environment
 
-Requires `APIFY_API_KEY` in `.env` (not committed to git).
+- Scraper requires `APIFY_API_KEY` in `.env` (not committed to git)
+- CEO brief requires Gmail MCP connection on Tiger's account
