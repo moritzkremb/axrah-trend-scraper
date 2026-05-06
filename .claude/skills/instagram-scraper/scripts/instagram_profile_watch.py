@@ -9,25 +9,20 @@ ACTOR = "apify/instagram-scraper"
 
 
 def run_apify(input_data):
-    input_json = json.dumps(input_data)
-    cmd = ["apify", "call", ACTOR, "-i", input_json, "-o"]
-    result = subprocess.run(cmd, capture_output=True, text=True)
-    if result.returncode != 0:
-        print(f"Error: {result.stderr}", file=sys.stderr)
-        sys.exit(1)
+    import os
+    import urllib.request
+
+    token = os.environ.get("APIFY_API_KEY", "")
+    actor_id = ACTOR.replace("/", "~")
+    url = f"https://api.apify.com/v2/acts/{actor_id}/run-sync-get-dataset-items?token={token}"
+    body = json.dumps(input_data).encode("utf-8")
+    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
     try:
-        lines = result.stdout.split("\n")
-        json_start = -1
-        for i, line in enumerate(lines):
-            if line.strip().startswith("["):
-                json_start = i
-                break
-        if json_start >= 0:
-            return json.loads("\n".join(lines[json_start:]))
-    except Exception:
-        pass
-    print(result.stdout)
-    return []
+        with urllib.request.urlopen(req, timeout=300) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        print(f"Error calling Apify: {e}", file=sys.stderr)
+        return []
 
 
 def week_start_utc(now=None):

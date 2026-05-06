@@ -17,7 +17,7 @@ while IFS= read -r handle; do
   [[ -z "$handle" ]] && continue
   [[ "$handle" =~ ^# ]] && continue
   echo "## @$handle" >> "$OUT_FILE"
-  if python3 "$SCRIPT_DIR/.claude/skills/instagram-scraper/scripts/instagram_profile_watch.py" --username "$handle" --limit 3 < /dev/null >> "$OUT_FILE" 2>&1; then
+  if python3 "$SCRIPT_DIR/.claude/skills/instagram-scraper/scripts/instagram_profile_watch.py" --username "$handle" --limit 3 < /dev/null >> "$OUT_FILE" 2>/dev/null; then
     :
   else
     echo "Profile scrape failed for @$handle" >> "$OUT_FILE"
