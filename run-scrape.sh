@@ -92,3 +92,17 @@ mkdir -p "$SCRIPT_DIR/outputs"
 } > "$latest"
 
 echo "=== Scrape Complete — outputs/latest.md updated ==="
+
+# --- Commit and push results ---
+echo "Pushing results to GitHub..."
+cd "$SCRIPT_DIR"
+git add outputs/latest.md \
+    "reddit-trends/$RUN_ID.md" \
+    "tiktok-trends/$RUN_ID.md" \
+    "youtube-trends/$RUN_ID.md" \
+    "instagram-trends/$RUN_ID.md" \
+    "instagram-account-watch/$DATE.md" \
+    "youtube-account-watch/$DATE.md" 2>/dev/null
+git commit -m "Scrape results $RUN_ID" --allow-empty
+git push origin main
+echo "=== Push complete ==="
