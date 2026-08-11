@@ -1,4 +1,4 @@
-# Trend Scrape — 2026-08-10-231224
+# Trend Scrape — 2026-08-11-231431
 
 ## Reddit (top posts this week from relevant subreddits)
 
@@ -16,7 +16,7 @@ No posts found.
 
 ## Instagram Account Watch
 
-# Instagram Account Watch — 2026-08-10
+# Instagram Account Watch — 2026-08-11
 
 ## @hubermanlab
 No recent posts found.
@@ -48,7 +48,7 @@ No recent posts found.
 
 ## YouTube Account Watch
 
-# YouTube Account Watch — 2026-08-10
+# YouTube Account Watch — 2026-08-11
 
 ## @hubermanlab
 No recent videos found.
