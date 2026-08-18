@@ -104,5 +104,5 @@ git add outputs/latest.md \
     "instagram-account-watch/$DATE.md" \
     "youtube-account-watch/$DATE.md" 2>/dev/null
 git commit -m "Scrape results $RUN_ID" --allow-empty
-git push origin main
+git push -u origin HEAD
 echo "=== Push complete ==="
